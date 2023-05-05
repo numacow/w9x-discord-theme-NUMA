@@ -27,7 +27,10 @@
 :root {
     --font-primary: "w95", "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-display: "w95", "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-headline: "w95", "ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
+    --font-headline: "w95", "ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --w9x-background-image: none;
+    --w9x-background-color: #008080;
+    --w9x-start-text: "Windows95";
 }
 
 :root, :root:lang(bg), :root:lang(el), :root:lang(ru), :root:lang(uk) {
@@ -3641,7 +3644,7 @@ body #app-mount .guilds-2JjMmN {
 }
 
 .bg-1QIAus {
-    background: var(--w9x-background-color, #008080) var(--w9x-background-image, none) center/cover
+    background: var(--w9x-background-color, #008080) var(--w9x-background-image, none) center/contain
 }
 
 .base-2jDfDU {
@@ -4929,8 +4932,8 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     border-color: #fff #000 #000 #fff;
     --background-secondary: #C0C0C0;
-    --header-primary: #000000;
-    --channels-default: #000000;
+    --header-primary: #DFDFDF;
+    --channels-default: #DFDFDF;
     --channel-icon: #000000;
     --background-modifier-hover: #000080;
     --background-modifier-selected: #000080;
@@ -4942,7 +4945,7 @@ body #app-mount .guilds-2JjMmN {
     --background-primary: #DFDFDF;
     --background-tertiary: #DFDFDF;
     --background-secondary-alt: #C0C0C0;
-    --text-normal: #000000;
+    --text-normal: #DFDFDF;
     --header-secondary: #808080
 }
 
@@ -9274,11 +9277,4 @@ body #app-mount:has(#dv-mount) .guilds-2JjMmN {
 
 #spotify-modal>.dock>.controls>svg:not(.active):hover {
     color: #000
-}
-
-/* See https://github.com/Saltssaumure/w9x-discord-theme#customisation for customisation settings. */
-:root {
-    --w9x-background-image: none;
-    --w9x-background-color: #008080;
-    --w9x-start-text: "Windows95";
 }
