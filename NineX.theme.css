@@ -55,14 +55,14 @@
     --deprecated-text-input-bg: var(--w9x-background);
     --deprecated-card-bg: #C0C0C0;
     --input-background: var(--w9x-background);
-    --interactive-normal: #000000;
-    --interactive-muted: #000000;
-    --interactive-hover: #000000;
-    --interactive-active: #000000;
-    --text-normal: #000000;
+    --interactive-normal: #DFDFDF;
+    --interactive-muted: #DFDFDF;
+    --interactive-hover: #DFDFDF;
+    --interactive-active: #DFDFDF;
+    --text-normal: #DFDFDF;
     --text-muted: #808080;
-    --header-primary: #000000;
-    --header-secondary: #000000;
+    --header-primary: #DFDFDF;
+    --header-secondary: #DFDFDF;
     --mention-foreground: #FFFFFF;
     --mention-background: #000080;
     --text-link: #0000FF;
@@ -73,7 +73,7 @@
     --search-popout-option-fade: linear-gradient(90deg, transparent, #C0C0C0);
     --search-popout-option-fade-hover: linear-gradient(90deg, transparent, #000080);
     --search-popout-date-picker-border: none;
-    --search-popout-date-picker-hint-text: #000000;
+    --search-popout-date-picker-hint-text: #DFDFDF;
     --search-popout-date-picker-hint-value-text: #FFFFFF;
     --search-popout-date-picker-hint-value-background: #000080;
     --search-popout-date-picker-hint-value-background-hover: #000080;
@@ -100,18 +100,18 @@
     --button-outline-danger-border: #FF0000;
     --button-outline-danger-border-active: #FF0000;
     --button-outline-danger-border-hover: #FF0000;
-    --button-outline-danger-text: #000000;
-    --button-outline-danger-text-active: #000000;
-    --button-outline-danger-text-hover: #000000;
+    --button-outline-danger-text: #DFDFDF;
+    --button-outline-danger-text-active: #DFDFDF;
+    --button-outline-danger-text-hover: #DFDFDF;
     --button-outline-positive-background: transparent;
     --button-outline-positive-background-active: #008000;
     --button-outline-positive-background-hover: #008000;
     --button-outline-positive-border: #008000;
     --button-outline-positive-border-active: #008000;
     --button-outline-positive-border-hover: #008000;
-    --button-outline-positive-text: #000000;
-    --button-outline-positive-text-active: #000000;
-    --button-outline-positive-text-hover: #000000;
+    --button-outline-positive-text: #DFDFDF;
+    --button-outline-positive-text-active: #DFDFDF;
+    --button-outline-positive-text-hover: #DFDFDF;
     --button-outline-primary-background: hsl(var(--white-500-hsl) / 0);
     --button-outline-primary-background-active: var(--primary-430);
     --button-outline-primary-background-hover: var(--primary-500);
@@ -186,7 +186,7 @@
     height: 16px;
     margin-top: 4px;
     width: 20px;
-    color: #000
+    color: #DFDFDF
 }
 
 .typeWindows-2-g3UY .winButton-3UMjdg::before {
@@ -1200,20 +1200,20 @@
 
 .sidebar-1tnWFu {
     --background-secondary: #C0C0C0;
-    --header-primary: #000000;
-    --channels-default: #000000;
-    --channel-icon: #000000;
+    --header-primary: #DFDFDF;
+    --channels-default: #DFDFDF;
+    --channel-icon: #DFDFDF;
     --background-modifier-hover: #000080;
     --background-modifier-selected: #000080;
     --background-modifier-active: #000080;
-    --interactive-normal: #000000;
-    --interactive-muted: #000000;
+    --interactive-normal: #DFDFDF;
+    --interactive-muted: #DFDFDF;
     --interactive-hover: #FFFFFF;
     --interactive-active: #FFFFFF;
     --background-primary: #DFDFDF;
     --background-tertiary: #DFDFDF;
     --background-secondary-alt: #C0C0C0;
-    --text-normal: #000000;
+    --text-normal: #DFDFDF;
     --header-secondary: #808080;
     position: absolute;
     border: 1px solid;
@@ -1286,7 +1286,7 @@
     position: relative;
     border: 1px solid;
     border-color: #fff #000 #000 #fff;
-    color: #000
+    color: #fff
 }
 
 .searchBar-3TnChZ .searchBarComponent-3N7dCG::before {
