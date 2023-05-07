@@ -29,7 +29,7 @@
     --font-primary: "w95", "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-display: "w95", "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-headline: "w95", "ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --w9x-background-image: url("https://raw.githubusercontent.com/numacow/w9x-discord-theme-NUMA/main/img/wires-o3.gif");
+    --w9x-background-image: url("https://raw.githubusercontent.com/numacow/w9x-discord-theme-NUMA/main/img/bg_47.gif");
     --w9x-start-text: "Numacow";
 }
 
@@ -3644,7 +3644,8 @@ body #app-mount .guilds-2JjMmN {
 }
 
 .bg-1QIAus {
-    background: var(--w9x-background-color, #008080) var(--w9x-background-image, none) center/cover
+    background: var(--w9x-background-image, none);
+    background-repeat: repeat;
 }
 
 .base-2jDfDU {
