@@ -47,9 +47,9 @@
     --background-secondary-alt: #CF7288;
     --background-tertiary: #000000;
     --background-modifier-hover: transparent;
-    --background-modifier-active: #C0C0C0;
-    --background-modifier-selected: #C0C0C0;
-    --background-floating: #C0C0C0;
+    --background-modifier-active: #CF7288;
+    --background-modifier-selected: #CF7288;
+    --background-floating: #CF7288;
     --channel-icon: #000000;
     --channeltextarea-background: var(--w9x-background);
     --deprecated-text-input-bg: var(--w9x-background);
@@ -77,8 +77,8 @@
     --search-popout-date-picker-hint-value-text: #FFFFFF;
     --search-popout-date-picker-hint-value-background: #000080;
     --search-popout-date-picker-hint-value-background-hover: #000080;
-    --modal-background: #C0C0C0;
-    --modal-footer-background: #C0C0C0;
+    --modal-background: #CF7288;
+    --modal-footer-background: #CF7288;
     --profile-body-divider-color: transparent;
     --profile-body-background-hover: #000080;
     --button-danger-background: #FF0000;
@@ -125,10 +125,10 @@
     --button-positive-background-active: #008000;
     --button-positive-background-disabled: #008000;
     --button-positive-background-hover: #008000;
-    --button-secondary-background: #C0C0C0;
-    --button-secondary-background-active: #C0C0C0;
-    --button-secondary-background-disabled: #C0C0C0;
-    --button-secondary-background-hover: #C0C0C0
+    --button-secondary-background: #CF7288;
+    --button-secondary-background-active: #CF7288;
+    --button-secondary-background-disabled: #CF7288;
+    --button-secondary-background-hover: #CF7288
 }
 
 .theme-light {
