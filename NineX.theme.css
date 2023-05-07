@@ -2443,11 +2443,17 @@ li.card-2JNtco:active::before {
 }
 
 .members-3WRCEx {
-    margin-top: 28px
+    margin-top: 28px;
+    background-image: url("https://raw.githubusercontent.com/numacow/w9x-discord-theme-NUMA/main/img/backgroundl3.gif") !important;
+}
+
+.members-3WRCEx .content-yjf30S{
+    background-image: none !important;
 }
 
 .members-3WRCEx .member-2gU6Ar {
-    margin-left: 4px
+    border: 1px solid;
+    border-color: #683944;
 }
 
 .members-3WRCEx .member-2gU6Ar:is(:hover, .selected-1-Z6gm) .activityText-1rR-8O {
