@@ -31,6 +31,7 @@
     --font-headline: "w95", "ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --w9x-background-image: url("https://raw.githubusercontent.com/numacow/w9x-discord-theme-NUMA/main/img/bg_47.gif");
     --w9x-start-text: "Numacow";
+    scrollbar-color: var(--background-secondary) var(--background-primary);
 }
 
 :root, :root:lang(bg), :root:lang(el), :root:lang(ru), :root:lang(uk) {
@@ -2388,20 +2389,20 @@ li.card-2JNtco:active::before {
 
 .membersWrap-3NUR2t {
     --background-secondary: #CF7288;
-    --header-primary: #000000;
+    --header-primary: #DFDFDF;
     --channels-default: #DFDFDF;
     --channel-icon: #000000;
-    --background-modifier-hover: #000080;
-    --background-modifier-selected: #000080;
-    --background-modifier-active: #000080;
-    --interactive-normal: #000000;
-    --interactive-muted: #000000;
+    --background-modifier-hover: #683944;
+    --background-modifier-selected: #683944;
+    --background-modifier-active: #683944;
+    --interactive-normal: #DFDFDF;
+    --interactive-muted: #DFDFDF;
     --interactive-hover: #FFFFFF;
     --interactive-active: #FFFFFF;
     --background-primary: #DFDFDF;
     --background-tertiary: #DFDFDF;
     --background-secondary-alt: #CF7288;
-    --text-normal: #000000;
+    --text-normal: #DFDFDF;
     --header-secondary: #808080;
     position: relative;
     border: 1px solid;
@@ -2426,7 +2427,7 @@ li.card-2JNtco:active::before {
 }
 
 .membersWrap-3NUR2t::after {
-    background: padding-box gray;
+    background: padding-box black;
     border: 2px solid rgba(0, 0, 0, 0);
     color: #CF7288;
     font-size: 1rem;
