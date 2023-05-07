@@ -9292,3 +9292,25 @@ body #app-mount:has(#dv-mount) .guilds-2JjMmN {
     background-image: url("https://raw.githubusercontent.com/numacow/w9x-discord-theme-NUMA/main/img/bg_main2.gif");
     background-repeat: repeat;
 }
+
+#vc-membercount{
+    margin-bottom:0.5em !important ;
+}
+
+.container-1oAagU::after {
+    background-image: url("https://raw.githubusercontent.com/numacow/w9x-discord-theme-NUMA/main/img/lain_myese.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #CF7288;
+    font-size: 1rem;
+    font-weight: bold;
+    height: 40%;
+    width: 20%;
+    line-height: 1.2rem;
+    padding: 2px;
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 1;
+    inset: auto auto 1%;
+}
