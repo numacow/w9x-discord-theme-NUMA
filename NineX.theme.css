@@ -2387,9 +2387,9 @@ li.card-2JNtco:active::before {
 }
 
 .membersWrap-3NUR2t {
-    --background-secondary: #C0C0C0;
+    --background-secondary: #CF7288;
     --header-primary: #000000;
-    --channels-default: #000000;
+    --channels-default: #DFDFDF;
     --channel-icon: #000000;
     --background-modifier-hover: #000080;
     --background-modifier-selected: #000080;
@@ -2400,7 +2400,7 @@ li.card-2JNtco:active::before {
     --interactive-active: #FFFFFF;
     --background-primary: #DFDFDF;
     --background-tertiary: #DFDFDF;
-    --background-secondary-alt: #C0C0C0;
+    --background-secondary-alt: #CF7288;
     --text-normal: #000000;
     --header-secondary: #808080;
     position: relative;
