@@ -28,7 +28,7 @@
     --font-primary: "w95", "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-display: "w95", "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-headline: "w95", "ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --w9x-background-image: "https://github.com/numacow/w9x-discord-theme-NUMA/blob/main/img/wires-o3.gif";
+    --w9x-background-image: url("https://github.com/numacow/w9x-discord-theme-NUMA/blob/main/img/wires-o3.gif");
     --w9x-background-color: #008080;
     --w9x-start-text: "Windows95";
 }
@@ -9285,4 +9285,10 @@ body #app-mount:has(#dv-mount) .guilds-2JjMmN {
 
 .theme-dark .outer-2JOHae.active-1W_Gl9, .theme-dark .outer-2JOHae.interactive-2zD88a:hover {
     background-color: var(--background-secondary);
+}
+
+.thin-RnSY0a .content-yjf30S {
+    background-image: url("https://github.com/numacow/w9x-discord-theme-NUMA/blob/main/img/bg_main2.gif");
+    background-repeat: repeat;
+    background-color: #ff0101;
 }
