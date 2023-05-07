@@ -1210,9 +1210,9 @@
     --interactive-muted: #DFDFDF;
     --interactive-hover: #FFFFFF;
     --interactive-active: #FFFFFF;
-    --background-primary: #DFDFDF;
+    --background-primary: #CF7288;
     --background-tertiary: #DFDFDF;
-    --background-secondary-alt: #C0C0C0;
+    --background-secondary-alt: #CF7288;
     --text-normal: #DFDFDF;
     --header-secondary: #808080;
     position: absolute;
@@ -1233,14 +1233,14 @@
 }
 
 .sidebar-1tnWFu::after {
-    content: var(--w9x-start-text, "Windows95");
+    content: var(--w9x-start-text, "Numacow");
     display: block;
     position: absolute;
     width: 28px;
     height: 100%;
     top: -10px;
     padding-top: 10px;
-    background: gray;
+    background: black;
     font-size: 1.6rem;
     font-family: "Franklin Gothic Bold", "Arial Narrow", Arial, sans-serif;
     font-weight: 900;
@@ -9290,5 +9290,4 @@ body #app-mount:has(#dv-mount) .guilds-2JjMmN {
 .thin-RnSY0a .content-yjf30S {
     background-image: url("https://github.com/numacow/w9x-discord-theme-NUMA/blob/main/img/bg_main2.gif");
     background-repeat: repeat;
-    background-color: #ff0101;
 }
