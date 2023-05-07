@@ -28,7 +28,7 @@
     --font-primary: "w95", "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-display: "w95", "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-headline: "w95", "ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --w9x-background-image: "https://github.com/numacow/w9x-discord-theme-NUMA/blob/main/img/bg_1.png?raw=true";
+    --w9x-background-image: "https://github.com/numacow/w9x-discord-theme-NUMA/blob/main/img/wires-o3.gif";
     --w9x-background-color: #008080;
     --w9x-start-text: "Windows95";
 }
@@ -42,10 +42,10 @@
 }
 
 .theme-light, .theme-dark {
-    --background-primary: #C0C0C0;
-    --background-secondary: #C0C0C0;
-    --background-secondary-alt: #C0C0C0;
-    --background-tertiary: #C0C0C0;
+    --background-primary: #000000;
+    --background-secondary: #CF7288;
+    --background-secondary-alt: #CF7288;
+    --background-tertiary: #000000;
     --background-modifier-hover: transparent;
     --background-modifier-active: #C0C0C0;
     --background-modifier-selected: #C0C0C0;
@@ -181,7 +181,7 @@
 .typeWindows-2-g3UY .winButton-3UMjdg {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver;
     height: 16px;
     margin-top: 4px;
@@ -196,7 +196,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .typeWindows-2-g3UY .winButton-3UMjdg:active {
@@ -272,7 +272,7 @@
 .toolbar-3_r2xA .search-39IXmY .searchBar-jGtisZ .icon-tZMHgY {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -283,7 +283,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .toolbar-3_r2xA .search-39IXmY .searchBar-jGtisZ .icon-tZMHgY:active {
@@ -301,7 +301,7 @@
 .toolbar-3_r2xA .search-39IXmY .searchBar-jGtisZ .searchFilter-2UfsDk, .toolbar-3_r2xA .search-39IXmY .searchBar-jGtisZ .searchAnswer-23w-CH {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver;
     color: #000
 }
@@ -313,13 +313,13 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .videoControls-353CsJ .toolbar-3_r2xA .iconWrapper-2awDjA.clickable-ZD7xvu:is(.anchor-1X4H4q .iconWrapper-2awDjA:only-of-type, :has([d^="M14 8.00598"])), .toolbar-3_r2xA .iconWrapper-2awDjA.clickable-ZD7xvu:not(.anchor-1X4H4q .iconWrapper-2awDjA:only-of-type, :has([d^="M14 8.00598"])) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 0;
     height: 32px;
     min-width: 32px;
@@ -335,7 +335,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .videoControls-353CsJ .toolbar-3_r2xA .iconWrapper-2awDjA.clickable-ZD7xvu:is(.anchor-1X4H4q .iconWrapper-2awDjA:only-of-type, :has([d^="M14 8.00598"])):active, .toolbar-3_r2xA .iconWrapper-2awDjA.clickable-ZD7xvu:not(.anchor-1X4H4q .iconWrapper-2awDjA:only-of-type, :has([d^="M14 8.00598"])):active {
@@ -373,7 +373,7 @@
 .channelTextArea-1FufC0 .buttonContainer-2lnNiN, .channelTextArea-1FufC0 .attachButton-_ACFSu, .channelTextArea-1FufC0 .buttonContainer-6W2Ep3 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -384,7 +384,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .channelTextArea-1FufC0 .buttonContainer-2lnNiN:active, .channelTextArea-1FufC0 .attachButton-_ACFSu:active, .channelTextArea-1FufC0 .buttonContainer-6W2Ep3:active {
@@ -432,7 +432,7 @@
 .channelTextArea-1FufC0 .channelAttachmentArea-HwpkuQ .uploadContainer-TCg-Ji {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     flex-direction: column-reverse
 }
 
@@ -443,7 +443,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .channelTextArea-1FufC0 .channelAttachmentArea-HwpkuQ .actionBar-1ozugS {
@@ -459,7 +459,7 @@
 .channelTextArea-1FufC0 .channelAttachmentArea-HwpkuQ .actionBar-1ozugS .button-3bklZh {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     height: 16px;
     width: 16px;
     padding: 0;
@@ -473,7 +473,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .channelTextArea-1FufC0 .channelAttachmentArea-HwpkuQ .actionBar-1ozugS .button-3bklZh:active {
@@ -519,7 +519,7 @@
 .channelTextArea-1FufC0 .autocomplete-3NRXG8 {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     bottom: calc(100% + 17px);
     left: -1px;
     right: -1px;
@@ -534,7 +534,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .channelTextArea-1FufC0 .autocomplete-3NRXG8, .channelTextArea-1FufC0 .autocomplete-3NRXG8::before {
@@ -548,7 +548,7 @@
 .channelTextArea-1FufC0 .autocomplete-3NRXG8 .autocompleteRow-14iwvH .base-2v-uc0 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .channelTextArea-1FufC0 .autocomplete-3NRXG8 .autocompleteRow-14iwvH .base-2v-uc0::before {
@@ -558,7 +558,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .channelTextArea-1FufC0 .autocomplete-3NRXG8 .autocompleteRow-14iwvH .base-2v-uc0:active {
@@ -596,7 +596,7 @@
 .channelTextArea-1FufC0 .autocomplete-3NRXG8 .rail-1BiMhk {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin-bottom: 0;
     width: 48px
 }
@@ -608,7 +608,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .channelTextArea-1FufC0 .autocomplete-3NRXG8 .rail-1BiMhk::before {
@@ -626,7 +626,7 @@
 .channelTextArea-1FufC0 .autocomplete-3NRXG8 .rail-1BiMhk .selectable-LZ5XDU, .channelTextArea-1FufC0 .autocomplete-3NRXG8 .rail-1BiMhk .selectable-fgiA2c {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .channelTextArea-1FufC0 .autocomplete-3NRXG8 .rail-1BiMhk .selectable-LZ5XDU::before, .channelTextArea-1FufC0 .autocomplete-3NRXG8 .rail-1BiMhk .selectable-fgiA2c::before {
@@ -636,7 +636,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .channelTextArea-1FufC0 .autocomplete-3NRXG8 .rail-1BiMhk .selectable-LZ5XDU:active, .channelTextArea-1FufC0 .autocomplete-3NRXG8 .rail-1BiMhk .selectable-fgiA2c:active {
@@ -660,14 +660,14 @@
 .channelTextArea-1FufC0 .autocomplete-3NRXG8 .option-Tt7anD {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
 .channelTextArea-1FufC0 .autocomplete-3NRXG8 .optionals-2w-NPQ {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 0 4px
 }
 
@@ -723,7 +723,7 @@
 .wrapper-2vIMkT .button-3bklZh {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 0
 }
 
@@ -734,7 +734,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .wrapper-2vIMkT .button-3bklZh:active {
@@ -748,7 +748,7 @@
 .wrapper-2vIMkT .button-3bklZh.disabled-3SakJY, .wrapper-2vIMkT .button-3bklZh.disabled-3SakJY:hover {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 0
 }
 
@@ -759,7 +759,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .description-22d6ux, .markup-eYLPri, .container-x059i8, .header-1dhDWV, .username-h_Y3Us, .repliedTextPlaceholder-1Njd47, .repliedTextPreview-1bvxun.clickable-31pE3P:hover, .repliedMessage-3Z6XBG, .subtitle-C_i4IN, .markup-eYLPri code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .operations-3q3u6E {
@@ -777,7 +777,7 @@
 .spoilerInnerContainer-1P_w0A, .messageAttachment-CZp8Iv .wrapperAudio-1Bzv_Z, .embedWrapper-1MtIDg.container-rr3Ruk, .attachment-1PZZB2, .gridContainer-1cF_Ic, .tile-2mmK5T, .wrapper-1HIH0j, .imageWrapper-oMkQl4 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .spoilerInnerContainer-1P_w0A::before, .messageAttachment-CZp8Iv .wrapperAudio-1Bzv_Z::before, .embedWrapper-1MtIDg.container-rr3Ruk::before, .attachment-1PZZB2::before, .gridContainer-1cF_Ic::before, .tile-2mmK5T::before, .wrapper-1HIH0j::before, .imageWrapper-oMkQl4::before {
@@ -787,7 +787,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .embedSuppressButton-1rZHq6, .embedSuppressButton-1rZHq6:hover {
@@ -823,7 +823,7 @@
 .downloadButton-2PkwZg {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 0;
     margin-top: 5px;
     margin-left: 6px
@@ -836,7 +836,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .downloadButton-2PkwZg:active {
@@ -850,7 +850,7 @@
 .codeIcon-Ni8XUA {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 0
 }
 
@@ -861,7 +861,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .codeIcon-Ni8XUA:active {
@@ -875,7 +875,7 @@
 .iconWrapper-XpfprW {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     opacity: 1;
     background: silver;
     color: #000
@@ -888,7 +888,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .iconWrapper-XpfprW:active {
@@ -902,7 +902,7 @@
 .hoverButton-36QWJk, .mediaMosaicAltText-1FnVZd {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .hoverButton-36QWJk::before, .mediaMosaicAltText-1FnVZd::before {
@@ -912,7 +912,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .hoverButton-36QWJk:active, .mediaMosaicAltText-1FnVZd:active {
@@ -939,7 +939,7 @@
 .audioControls-3fmemK {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .audioControls-3fmemK::before {
@@ -949,7 +949,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .controlIcon-10O-4h, .controlIcon-10O-4h:hover {
@@ -959,7 +959,7 @@
 .videoButton-3NM9Tc {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .videoButton-3NM9Tc::before {
@@ -969,7 +969,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .videoButton-3NM9Tc:active {
@@ -1020,7 +1020,7 @@
     background: silver;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .mediaBarInteractionVolume-zGrOSh::before {
@@ -1030,7 +1030,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .reaction-3vwAF2 {
@@ -1041,7 +1041,7 @@
 .reactionInner-YJjOtT {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .reactionInner-YJjOtT::before {
@@ -1051,7 +1051,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .reaction-3vwAF2.reactionMe-1PwQAc {
@@ -1089,7 +1089,7 @@
 .container-3i3IzO {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .container-3i3IzO::before {
@@ -1099,7 +1099,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3i3IzO:active {
@@ -1117,7 +1117,7 @@
 .wrapper-1ZcZW-:is(.channelMention, .mention) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .wrapper-1ZcZW-:is(.channelMention, .mention)::before {
@@ -1127,7 +1127,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .wrapper-1ZcZW-:is(.channelMention, .mention):active {
@@ -1146,7 +1146,7 @@
 .messageContent-2t3eCI .spoilerText-2G40u0.hidden-2lQZ5q {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: gray
 }
 
@@ -1157,7 +1157,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .messageContent-2t3eCI .spoilerText-2G40u0 {
@@ -1180,7 +1180,7 @@
 .markup-eYLPri code {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: var(--w9x-background)
 }
 
@@ -1191,7 +1191,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .editor-H2NA06 {
@@ -1199,13 +1199,13 @@
 }
 
 .sidebar-1tnWFu {
-    --background-secondary: #C0C0C0;
+    --background-secondary: #CF7288;
     --header-primary: #DFDFDF;
     --channels-default: #DFDFDF;
     --channel-icon: #DFDFDF;
-    --background-modifier-hover: #000080;
-    --background-modifier-selected: #000080;
-    --background-modifier-active: #000080;
+    --background-modifier-hover: #683944;
+    --background-modifier-selected: #CF7288;
+    --background-modifier-active: #CF7288;
     --interactive-normal: #DFDFDF;
     --interactive-muted: #DFDFDF;
     --interactive-hover: #FFFFFF;
@@ -1217,7 +1217,7 @@
     --header-secondary: #808080;
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     bottom: 0;
     max-height: 60vh
 }
@@ -1229,7 +1229,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .sidebar-1tnWFu::after {
@@ -1256,7 +1256,7 @@
 :not(.bannerVisible-Vkyg1I)>.header-3OsQeK {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     box-shadow: none
 }
 
@@ -1267,7 +1267,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :not(.bannerVisible-Vkyg1I)>.header-3OsQeK:active {
@@ -1285,7 +1285,7 @@
 .searchBar-3TnChZ .searchBarComponent-3N7dCG {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     color: #fff
 }
 
@@ -1296,7 +1296,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .searchBar-3TnChZ .searchBarComponent-3N7dCG:active {
@@ -1331,7 +1331,7 @@
 .communityInfoPill-2Mll66 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     z-index: 1
 }
 
@@ -1342,7 +1342,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-2giAcK {
@@ -1401,7 +1401,7 @@
 .iconItem-1EjiK0 .actionIcon-2sw4Sl {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: var(--background-secondary)
 }
 
@@ -1412,7 +1412,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .iconItem-1EjiK0 .actionIcon-2sw4Sl:active {
@@ -1434,7 +1434,7 @@
 .voiceChannelsButton-SRmgo8 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     color: var(--channels-default)
 }
 
@@ -1445,7 +1445,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .voiceChannelsButton-SRmgo8:active {
@@ -1499,7 +1499,7 @@
 .pill-3pRQlO {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -1510,7 +1510,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .pill-3pRQlO:active {
@@ -1561,7 +1561,7 @@
 .container-3wLKDe .tags-2UGy2I>:is(.pinIcon-3I5-gm, .tagPill-1kSbgP) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -1572,7 +1572,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3wLKDe .tags-2UGy2I>:is(.pinIcon-3I5-gm, .tagPill-1kSbgP) path {
@@ -1616,7 +1616,7 @@
 .container-3wLKDe .headerRow-1MKoR- .tagsContainer-2bBw1x {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver;
     padding: 2px 12px
 }
@@ -1628,7 +1628,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3wLKDe .headerRow-1MKoR- .tagsContainer-2bBw1x .sortDropdown-hY93nR {
@@ -1662,7 +1662,7 @@
 .container-3wLKDe .headerRow-1MKoR- .matchingPostsRow-2IiEQ1 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .container-3wLKDe .headerRow-1MKoR- .matchingPostsRow-2IiEQ1::before {
@@ -1672,14 +1672,14 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI {
     margin-top: 0;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI::before {
@@ -1689,13 +1689,13 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI :is(.prefixElement-1U4XhR, .guidelinesButton-3Vrz0u) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1711,7 +1711,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI :is(.prefixElement-1U4XhR, .guidelinesButton-3Vrz0u):active {
@@ -1746,7 +1746,7 @@
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI .container-3Om6RL .uploadInput-3fblkw {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     height: 76px;
     width: 76px
 }
@@ -1758,7 +1758,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI .container-3Om6RL .uploadInput-3fblkw:active {
@@ -1772,7 +1772,7 @@
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI .container-3Om6RL .icon-2bPCaV {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI .container-3Om6RL .icon-2bPCaV::before {
@@ -1782,7 +1782,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI .container-3Om6RL .imageContainer-ZRSemj>div:not([aria-expanded=false]), .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI .container-3Om6RL .imageContainer-ZRSemj>div:not([aria-expanded=false])>div {
@@ -1803,7 +1803,7 @@
     z-index: 1;
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 0;
     top: -8px;
     right: -8px
@@ -1816,7 +1816,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI .container-3Om6RL .popoutContainer-26yHc8 .popout-2vZMlk {
@@ -1857,7 +1857,7 @@
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI .controlsContainer-2BcSvj .expression-picker-chat-input-button {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     justify-content: center;
     height: 30px;
     width: 30px
@@ -1870,7 +1870,7 @@
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3wLKDe .headerRow-1MKoR- .mainCard-3KBsBI .controlsContainer-2BcSvj .expression-picker-chat-input-button:active {
@@ -1896,7 +1896,7 @@ li.card-2JNtco {
     margin: 8px;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 li.card-2JNtco::before {
@@ -1906,7 +1906,7 @@ li.card-2JNtco::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 li.card-2JNtco:active {
@@ -1985,7 +1985,7 @@ li.card-2JNtco:active::before {
 .container-3YcgdM .buttons-BK5gED .buttonInner-3aRbcx {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     height: 20px
 }
 
@@ -1996,7 +1996,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3YcgdM .buttons-BK5gED .buttonInner-3aRbcx:active {
@@ -2040,7 +2040,7 @@ li.card-2JNtco:active::before {
 .children-3xh0VB .topPill-2vcLsa .item-2GWPIy {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     border-bottom-color: rgba(0, 0, 0, 0);
     border-radius: 4px 4px 0 0;
     padding: 2px 8px;
@@ -2054,7 +2054,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .children-3xh0VB .topPill-2vcLsa .item-2GWPIy::before {
@@ -2116,7 +2116,7 @@ li.card-2JNtco:active::before {
 .peopleColumn-1wMU14 .searchBar-2aylmZ .iconContainer-6pgShY {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver;
     padding: 2px
 }
@@ -2128,7 +2128,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .peopleColumn-1wMU14 .searchBar-2aylmZ .iconContainer-6pgShY:active {
@@ -2166,7 +2166,7 @@ li.card-2JNtco:active::before {
     padding: 8px;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .peopleColumn-1wMU14 .peopleList-2VBrVI .peopleListItem-u6dGxF::before {
@@ -2176,7 +2176,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .peopleColumn-1wMU14 .peopleList-2VBrVI .peopleListItem-u6dGxF:active {
@@ -2190,7 +2190,7 @@ li.card-2JNtco:active::before {
 .peopleColumn-1wMU14 .peopleList-2VBrVI .peopleListItem-u6dGxF .actionButton-3-B2x- {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     height: 24px;
     width: 24px
 }
@@ -2202,7 +2202,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .peopleColumn-1wMU14 .peopleList-2VBrVI .peopleListItem-u6dGxF .actionButton-3-B2x-:active {
@@ -2233,7 +2233,7 @@ li.card-2JNtco:active::before {
 .peopleColumn-1wMU14 .grid-1-I1AZ .container-3tKtM_ {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .peopleColumn-1wMU14 .grid-1-I1AZ .container-3tKtM_::before {
@@ -2243,7 +2243,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .peopleColumn-1wMU14 .grid-1-I1AZ .container-3tKtM_:active {
@@ -2282,7 +2282,7 @@ li.card-2JNtco:active::before {
 .nowPlayingColumn-1eCBCN .scroller-hE2gWq .itemCard-3Etziu {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 0 8px;
     padding: 12px
 }
@@ -2294,7 +2294,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .nowPlayingColumn-1eCBCN .scroller-hE2gWq .itemCard-3Etziu:active {
@@ -2345,7 +2345,7 @@ li.card-2JNtco:active::before {
 .list-2hhlBX .messageRequestItem-1_NNAR {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .list-2hhlBX .messageRequestItem-1_NNAR::before {
@@ -2355,7 +2355,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .list-2hhlBX .messageRequestItem-1_NNAR:active {
@@ -2405,7 +2405,7 @@ li.card-2JNtco:active::before {
     --header-secondary: #808080;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     position: fixed;
     right: 30px;
     top: 180px;
@@ -2422,7 +2422,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .membersWrap-3NUR2t::after {
@@ -2460,7 +2460,7 @@ li.card-2JNtco:active::before {
 .sidebar-1tnWFu>.thin-RnSY0a .discoverHeader-1vsvZ0 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     font-size: 16px;
     line-height: 20px;
     padding: 12px 16px;
@@ -2474,7 +2474,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .sidebar-1tnWFu>.thin-RnSY0a .categoryItem-Kc_HK_ {
@@ -2515,7 +2515,7 @@ li.card-2JNtco:active::before {
 .appMount-2yBXZl .pageWrapper-2PwDoS .searchBox-pyIJJj .searchIcon-34RNw9, .appMount-2yBXZl .pageWrapper-2PwDoS .searchBox-pyIJJj .clear-1JYfB5 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     top: 1px;
     background: silver;
     color: #000;
@@ -2529,7 +2529,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .appMount-2yBXZl .pageWrapper-2PwDoS .searchBox-pyIJJj .searchIcon-34RNw9:active, .appMount-2yBXZl .pageWrapper-2PwDoS .searchBox-pyIJJj .clear-1JYfB5:active {
@@ -2550,7 +2550,7 @@ li.card-2JNtco:active::before {
 .appMount-2yBXZl .pageWrapper-2PwDoS .card-2TuZPZ {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .appMount-2yBXZl .pageWrapper-2PwDoS .card-2TuZPZ::before {
@@ -2560,7 +2560,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .appMount-2yBXZl .pageWrapper-2PwDoS .card-2TuZPZ:active {
@@ -2598,7 +2598,7 @@ li.card-2JNtco:active::before {
 .searchPage-1Rxeav .categories-2LoSbA {
     position: fixed;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     left: 272px;
     top: 142px;
     bottom: 78px;
@@ -2612,7 +2612,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .searchPage-1Rxeav .categories-2LoSbA .categoryPill-1zjNrr {
@@ -2647,7 +2647,7 @@ li.card-2JNtco:active::before {
 .searchPage-1Rxeav .guildList-QjZKeK .card-1rhKXq {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .searchPage-1Rxeav .guildList-QjZKeK .card-1rhKXq::before {
@@ -2657,7 +2657,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .searchPage-1Rxeav .guildList-QjZKeK .card-1rhKXq:active {
@@ -2704,7 +2704,7 @@ li.card-2JNtco:active::before {
 .searchPage-1Rxeav .pageControl-1Kt_nb .roundButton-2mKRqM {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 0
 }
 
@@ -2715,7 +2715,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .searchPage-1Rxeav .pageControl-1Kt_nb .roundButton-2mKRqM:active {
@@ -2773,7 +2773,7 @@ li.card-2JNtco:active::before {
 .sidebar-1tnWFu+.scroller-RfJjkV .guildListSection-27K5In :is(.card-2TuZPZ, .container-1wv6C6) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .sidebar-1tnWFu+.scroller-RfJjkV .guildListSection-27K5In :is(.card-2TuZPZ, .container-1wv6C6)::before {
@@ -2783,7 +2783,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .sidebar-1tnWFu+.scroller-RfJjkV .guildListSection-27K5In :is(.card-2TuZPZ, .container-1wv6C6):active {
@@ -2836,7 +2836,7 @@ li.card-2JNtco:active::before {
 .searchResultsWrap-5RVOkx .searchHeader-1r_ZSh .searchHeaderTabList-3CZMQB .item-2GWPIy {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     border-bottom-color: rgba(0, 0, 0, 0);
     border-radius: 4px 4px 0 0;
     padding: 2px 8px
@@ -2849,7 +2849,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .searchResultsWrap-5RVOkx .searchHeader-1r_ZSh .searchHeaderTabList-3CZMQB .item-2GWPIy::before {
@@ -2868,7 +2868,7 @@ li.card-2JNtco:active::before {
 .searchResultsWrap-5RVOkx .scroller-3iiyhZ {
     position: static;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 0 8px 8px
 }
 
@@ -2879,7 +2879,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .searchResultsWrap-5RVOkx .scroller-3iiyhZ::before {
@@ -2906,7 +2906,7 @@ li.card-2JNtco:active::before {
 .searchResultsWrap-5RVOkx .scroller-3iiyhZ .button-cfOvv- {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .searchResultsWrap-5RVOkx .scroller-3iiyhZ .button-cfOvv-::before {
@@ -2916,7 +2916,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .searchResultsWrap-5RVOkx .scroller-3iiyhZ .button-cfOvv-:active {
@@ -2953,7 +2953,7 @@ li.card-2JNtco:active::before {
 .searchResultsWrap-5RVOkx .scroller-3iiyhZ .container-1-h9mY .pageControl-1Kt_nb .pageButton-uta6J3:disabled {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .searchResultsWrap-5RVOkx .scroller-3iiyhZ .container-1-h9mY .pageControl-1Kt_nb .pageButton-uta6J3:disabled::before {
@@ -2963,13 +2963,13 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .searchResultsWrap-5RVOkx .scroller-3iiyhZ .container-1-h9mY .pageControl-1Kt_nb .pageButton-uta6J3:not(:disabled) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .searchResultsWrap-5RVOkx .scroller-3iiyhZ .container-1-h9mY .pageControl-1Kt_nb .pageButton-uta6J3:not(:disabled)::before {
@@ -2979,7 +2979,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .searchResultsWrap-5RVOkx .scroller-3iiyhZ .container-1-h9mY .pageControl-1Kt_nb .pageButton-uta6J3:not(:disabled):active {
@@ -3001,7 +3001,7 @@ li.card-2JNtco:active::before {
 .wrapper-1_HaEi .scroller-3X7KbA {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: var(--background-secondary);
     border-color: #fff #fff #000 #000
 }
@@ -3013,7 +3013,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .wrapper-1_HaEi .scroller-3X7KbA::before {
@@ -3027,7 +3027,7 @@ li.card-2JNtco:active::before {
 .listItem-3SmSlK:not(:has(.guildSeparator-a4uisj)) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .listItem-3SmSlK:not(:has(.guildSeparator-a4uisj))::before {
@@ -3037,7 +3037,7 @@ li.card-2JNtco:active::before {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .listItem-3SmSlK:not(:has(.guildSeparator-a4uisj)):active {
@@ -3164,7 +3164,7 @@ body #app-mount .guilds-2JjMmN {
 .panels-3wFtMD {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     position: fixed;
     bottom: 0;
     left: calc(100vw - 240px);
@@ -3180,7 +3180,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .panels-3wFtMD:has(.container-1zzFcN, .activityPanel-9icbyU, .container-6sXIoE, #spotify-modal-root) {
@@ -3212,7 +3212,7 @@ body #app-mount .guilds-2JjMmN {
 .button-12Fmur {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .button-12Fmur::before {
@@ -3222,7 +3222,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .button-12Fmur:active {
@@ -3279,7 +3279,7 @@ body #app-mount .guilds-2JjMmN {
 .content-1SgpWY>.resizeHandle-PBRzPC {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver;
     position: relative;
     right: 120px;
@@ -3296,7 +3296,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .content-1SgpWY>.resizeHandle-PBRzPC::before {
@@ -3307,7 +3307,7 @@ body #app-mount .guilds-2JjMmN {
 .content-1SgpWY>.container-3XgAHv {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 50px 0 50px 0;
     right: 120px;
     max-width: 100%;
@@ -3321,7 +3321,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .content-1SgpWY>.container-3XgAHv::before {
@@ -3436,7 +3436,7 @@ body #app-mount .guilds-2JjMmN {
 .wrapper-1gVUIN .videoControls-353CsJ .controlSection-1mNixL .toolbar-3_r2xA button {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 0;
     height: 32px;
     width: 32px
@@ -3449,7 +3449,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .wrapper-1gVUIN .videoControls-353CsJ .controlSection-1mNixL .toolbar-3_r2xA button:active {
@@ -3476,7 +3476,7 @@ body #app-mount .guilds-2JjMmN {
 .wrapper-1gVUIN .videoControls-353CsJ .controlSection-1mNixL.bottomControls-31YuPK .wrapper-3t3Yqv .controlButton-2PMNom {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 0
 }
 
@@ -3487,7 +3487,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .wrapper-1gVUIN .videoControls-353CsJ .controlSection-1mNixL.bottomControls-31YuPK .wrapper-3t3Yqv .controlButton-2PMNom:active {
@@ -3534,7 +3534,7 @@ body #app-mount .guilds-2JjMmN {
 .wrapper-1gVUIN .videoControls-353CsJ .controlSection-1mNixL.bottomControls-31YuPK .wrapper-3t3Yqv .contextMenuNub-NuTZ_U {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     left: 0;
     width: auto;
     height: 12px;
@@ -3548,7 +3548,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .wrapper-1gVUIN .videoControls-353CsJ .controlSection-1mNixL.bottomControls-31YuPK .wrapper-3t3Yqv .contextMenuNub-NuTZ_U:active {
@@ -3578,7 +3578,7 @@ body #app-mount .guilds-2JjMmN {
 .wrapper-1gVUIN .videoControls-353CsJ .controlSection-1mNixL.bottomControls-31YuPK button:not(.wrapper-3t3Yqv button) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 0;
     height: 32px;
     width: 32px
@@ -3591,7 +3591,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .wrapper-1gVUIN .videoControls-353CsJ .controlSection-1mNixL.bottomControls-31YuPK button:not(.wrapper-3t3Yqv button):active {
@@ -3615,7 +3615,7 @@ body #app-mount .guilds-2JjMmN {
 .wrapper-1gVUIN .videoControls-353CsJ~div:not(.erd_scroll_detection_container) button {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     height: 32px;
     width: 32px;
     top: 8px
@@ -3628,7 +3628,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .wrapper-1gVUIN .videoControls-353CsJ~div:not(.erd_scroll_detection_container) button:active {
@@ -3644,7 +3644,7 @@ body #app-mount .guilds-2JjMmN {
 }
 
 .bg-1QIAus {
-    background: var(--w9x-background-color, #008080) var(--w9x-background-image, none) center/contain
+    background: var(--w9x-background-color, #008080) var(--w9x-background-image, none) center/cover
 }
 
 .base-2jDfDU {
@@ -3658,7 +3658,7 @@ body #app-mount .guilds-2JjMmN {
 .base-2jDfDU :is(.bd-notice, .notice-12Koq-) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin-bottom: -4px;
     border-radius: 4px 4px 0 0
 }
@@ -3670,7 +3670,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .base-2jDfDU :is(.bd-notice, .notice-12Koq-) .back-ZdqB1k {
@@ -3682,7 +3682,7 @@ body #app-mount .guilds-2JjMmN {
     overflow: hidden;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .standardSidebarView-E9Pc3j::before, .container-2cd8Mz::before, .pageWrapper-2PwDoS::before, .scroller-RfJjkV::before, .applicationStore-2nk7Lo::before, .chat-2ZfjoI:not(.container-2IKOsH>.chat-2ZfjoI)::before {
@@ -3692,7 +3692,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .scroller-RfJjkV {
@@ -3743,7 +3743,7 @@ body #app-mount .guilds-2JjMmN {
 .header-1ffhsl .searchBarComponent-18D6hD .tag-15zcD_ {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .header-1ffhsl .searchBarComponent-18D6hD .tag-15zcD_::before {
@@ -3753,7 +3753,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .header-1ffhsl .searchBarComponent-18D6hD .tag-15zcD_:active {
@@ -3773,7 +3773,7 @@ body #app-mount .guilds-2JjMmN {
 .scroller-1Kbkqa .friendWrapper-2x5j0A {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 0
 }
 
@@ -3784,7 +3784,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .scroller-1Kbkqa .friendWrapper-2x5j0A:active {
@@ -3866,7 +3866,7 @@ body #app-mount .guilds-2JjMmN {
 .buttons-3snlAO {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -3877,7 +3877,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .buttons-3snlAO .icon-3g7qdA, .buttons-3snlAO .active-136ioF .icon-3g7qdA, .buttons-3snlAO .hover-3OQb9Y:hover .icon-3g7qdA {
@@ -3907,7 +3907,7 @@ body #app-mount .guilds-2JjMmN {
 .popoutContainer-2wbmiM {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .popoutContainer-2wbmiM::before {
@@ -3917,13 +3917,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .popoutContainer-2wbmiM .guildSection-2Zyzy8 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .popoutContainer-2wbmiM .guildSection-2Zyzy8::before {
@@ -3933,13 +3933,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .contentWrapper-3vHNP2, .contentWrapper-2f9yME {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .contentWrapper-3vHNP2::before, .contentWrapper-2f9yME::before {
@@ -3949,7 +3949,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.nav-1zWVQw, .nav-1cHpYc) {
@@ -3959,7 +3959,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.navItem-3McpmW, .navItem-2srkuX) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     border-bottom-color: rgba(0, 0, 0, 0);
     border-radius: 4px 4px 0 0;
     padding: 2px 8px;
@@ -3974,7 +3974,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.navItem-3McpmW, .navItem-2srkuX)::before {
@@ -4010,7 +4010,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc).emojiPickerHeader-2mWh2T .tooltipContainer-3zA7TI {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc).emojiPickerHeader-2mWh2T .tooltipContainer-3zA7TI::before {
@@ -4020,7 +4020,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc).emojiPickerHeader-2mWh2T .tooltipContainer-3zA7TI:active {
@@ -4034,7 +4034,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc) .backButton-bSKWLe {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin-right: 0;
     padding: 2px 4px;
     color: #000
@@ -4047,7 +4047,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc) .backButton-bSKWLe:active {
@@ -4088,7 +4088,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc) :is(.container-1SX9VC, .container-2oNtJn) :is(.iconLayout-SqV3nb, .iconLayout-3Bjizv) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -4099,7 +4099,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc) :is(.container-1SX9VC, .container-2oNtJn) :is(.iconLayout-SqV3nb, .iconLayout-3Bjizv):active {
@@ -4113,7 +4113,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc) :is(.container-1SX9VC, .container-2oNtJn).disabled-2QaYSb :is(.iconLayout-SqV3nb, .iconLayout-3Bjizv) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc) :is(.container-1SX9VC, .container-2oNtJn).disabled-2QaYSb :is(.iconLayout-SqV3nb, .iconLayout-3Bjizv)::before {
@@ -4123,13 +4123,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc) .diversitySelectorButton-2CGlo5 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 4px
 }
 
@@ -4140,7 +4140,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc) .diversitySelectorButton-2CGlo5:active {
@@ -4154,7 +4154,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc) .diversitySelectorOptions-3DhNYs {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     right: 16px
 }
 
@@ -4165,7 +4165,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.emojiPickerHasTabWrapper-LoluYe .header-11eigE, .header-11eigE, .header-uVCAlo, .header-2TLOnc) .betaTag-V7479T {
@@ -4188,7 +4188,7 @@ body #app-mount .guilds-2JjMmN {
     background: var(--w9x-background) !important;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 #gif-picker-tab-panel .result-pzZrwj::before {
@@ -4198,7 +4198,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #gif-picker-tab-panel .result-pzZrwj:active {
@@ -4224,7 +4224,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .searchSuggestion-PfUKKS {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .searchSuggestion-PfUKKS::before {
@@ -4234,7 +4234,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .searchSuggestion-PfUKKS:active {
@@ -4256,7 +4256,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .listItems-6eZzQ1 :is(.header-1ULbqO, .packHeader-w9jpYl) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     z-index: 2
 }
 
@@ -4267,7 +4267,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .listItems-6eZzQ1 :is(.header-1ULbqO, .packHeader-w9jpYl) .header-1XpmZs {
@@ -4282,7 +4282,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .listItems-6eZzQ1 .emojiItem-277VFM {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .listItems-6eZzQ1 .emojiItem-277VFM::before {
@@ -4292,7 +4292,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .listItems-6eZzQ1 .emojiItem-277VFM:active {
@@ -4306,7 +4306,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .listItems-6eZzQ1 .emojiItem-277VFM.emojiItemDisabled-3VVnwp {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .listItems-6eZzQ1 .emojiItem-277VFM.emojiItemDisabled-3VVnwp::before {
@@ -4316,7 +4316,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .listItems-6eZzQ1 .emojiItem-277VFM.emojiItemSelected-2Lg50V {
@@ -4333,7 +4333,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .listItems-6eZzQ1 .row-2mBMW2>div {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .listItems-6eZzQ1 .row-2mBMW2>div::before {
@@ -4343,7 +4343,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.bodyWrapper-1eSOtW, .listWrapper-2DwCYS) .listItems-6eZzQ1 .row-2mBMW2>div:active {
@@ -4361,7 +4361,7 @@ body #app-mount .guilds-2JjMmN {
 .inspector-DFKXwB {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .inspector-DFKXwB::before {
@@ -4371,13 +4371,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.emojiPickerHasTabWrapper-LoluYe .categoryList-2qRrlj, .categoryList-2qRrlj, .categoryList-2GgCrD) {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     top: 45px
 }
 
@@ -4388,13 +4388,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.emojiPickerHasTabWrapper-LoluYe .categoryList-2qRrlj, .categoryList-2qRrlj, .categoryList-2GgCrD) :is(.categoryItem-1sHzUv, .stickerCategory-2f6iSo) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin-bottom: 0
 }
 
@@ -4405,7 +4405,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.emojiPickerHasTabWrapper-LoluYe .categoryList-2qRrlj, .categoryList-2qRrlj, .categoryList-2GgCrD) :is(.categoryItem-1sHzUv, .stickerCategory-2f6iSo):active {
@@ -4424,7 +4424,7 @@ body #app-mount .guilds-2JjMmN {
 .recentMentionsPopout-2bI1ZN {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     max-height: calc(100vh - 50px - 120px) !important
 }
 
@@ -4435,7 +4435,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .recentMentionsPopout-2bI1ZN .header-145e10.expanded-2H1xJ- {
@@ -4456,7 +4456,7 @@ body #app-mount .guilds-2JjMmN {
 .recentMentionsPopout-2bI1ZN .header-145e10.expanded-2H1xJ- .topPill-2vcLsa .tab-TRrPC8 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     border-bottom-color: rgba(0, 0, 0, 0);
     border-radius: 4px 4px 0 0;
     padding: 2px 8px;
@@ -4470,7 +4470,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .recentMentionsPopout-2bI1ZN .header-145e10.expanded-2H1xJ- .topPill-2vcLsa .tab-TRrPC8::before {
@@ -4493,7 +4493,7 @@ body #app-mount .guilds-2JjMmN {
 .recentMentionsPopout-2bI1ZN :is(.scroller-145h9c, .messagesPopout-eVzQcI, .container-1A0qQO) .tertiary-1e-lAP {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .recentMentionsPopout-2bI1ZN :is(.scroller-145h9c, .messagesPopout-eVzQcI, .container-1A0qQO) .tertiary-1e-lAP::before {
@@ -4503,7 +4503,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .recentMentionsPopout-2bI1ZN :is(.scroller-145h9c, .messagesPopout-eVzQcI, .container-1A0qQO) .tertiary-1e-lAP:active {
@@ -4542,7 +4542,7 @@ body #app-mount .guilds-2JjMmN {
 .recentMentionsPopout-2bI1ZN :is(.scroller-145h9c, .messagesPopout-eVzQcI, .container-1A0qQO) :is(.messageContainer-3VTXBC, .messages-23can0) :is(.jumpButton-1ITAeq, .jumpButton-1V_1FA) {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .recentMentionsPopout-2bI1ZN :is(.scroller-145h9c, .messagesPopout-eVzQcI, .container-1A0qQO) :is(.messageContainer-3VTXBC, .messages-23can0) :is(.jumpButton-1ITAeq, .jumpButton-1V_1FA)::before {
@@ -4552,7 +4552,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .recentMentionsPopout-2bI1ZN :is(.scroller-145h9c, .messagesPopout-eVzQcI, .container-1A0qQO) :is(.messageContainer-3VTXBC, .messages-23can0) :is(.jumpButton-1ITAeq, .jumpButton-1V_1FA):active {
@@ -4566,7 +4566,7 @@ body #app-mount .guilds-2JjMmN {
 .root-1e2tfc {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .root-1e2tfc::before {
@@ -4576,13 +4576,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .root-1e2tfc .actionButton-2S7dMn {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .root-1e2tfc .actionButton-2S7dMn::before {
@@ -4592,7 +4592,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .root-1e2tfc .actionButton-2S7dMn:active {
@@ -4606,7 +4606,7 @@ body #app-mount .guilds-2JjMmN {
 .loadingPopout-1tyQMM {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .loadingPopout-1tyQMM::before {
@@ -4616,7 +4616,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .loadingPopout-1tyQMM .path2-6i8gUh, .loadingPopout-1tyQMM .path-_o_4bT {
@@ -4628,7 +4628,7 @@ body #app-mount .guilds-2JjMmN {
     box-shadow: none;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .menu-2TXYjN::before {
@@ -4638,7 +4638,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .menu-2TXYjN::before {
@@ -4723,7 +4723,7 @@ body #app-mount .guilds-2JjMmN {
 .menu-2TXYjN .button-1zW0-r {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 0;
     margin-top: 4px
 }
@@ -4735,7 +4735,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .menu-2TXYjN .button-1zW0-r:active {
@@ -4749,7 +4749,7 @@ body #app-mount .guilds-2JjMmN {
 .container-2kTWmC {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .container-2kTWmC::before {
@@ -4759,7 +4759,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-2kTWmC .searchWithScrollbar-2PoZTD {
@@ -4794,7 +4794,7 @@ body #app-mount .guilds-2JjMmN {
 .container-2kTWmC .list-1B0XtU .item-1Mjtru {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 0
 }
 
@@ -4805,7 +4805,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-2kTWmC .list-1B0XtU .item-1Mjtru:active {
@@ -4835,7 +4835,7 @@ body #app-mount .guilds-2JjMmN {
 .messagesPopoutWrap-3zryHW {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .messagesPopoutWrap-3zryHW::before {
@@ -4845,7 +4845,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .messagesPopoutWrap-3zryHW .header-1w9Q93 {
@@ -4873,7 +4873,7 @@ body #app-mount .guilds-2JjMmN {
 .messagesPopoutWrap-3zryHW .messageGroupWrapper-1jf_7C .jumpButton-1ZwI_j {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .messagesPopoutWrap-3zryHW .messageGroupWrapper-1jf_7C .jumpButton-1ZwI_j::before {
@@ -4883,7 +4883,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .messagesPopoutWrap-3zryHW .messageGroupWrapper-1jf_7C .jumpButton-1ZwI_j:active {
@@ -4897,7 +4897,7 @@ body #app-mount .guilds-2JjMmN {
 .layerContainer-2lfOPe .quickSelectPopout-2F0PXw {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     top: -8px;
     background: silver;
     color: #000
@@ -4910,7 +4910,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .layerContainer-2lfOPe .quickSelectPopout-2F0PXw .quickSelectPopoutOption-2E2UmS:hover {
@@ -4930,7 +4930,7 @@ body #app-mount .guilds-2JjMmN {
 .container-2McqkF {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     --background-secondary: #C0C0C0;
     --header-primary: #DFDFDF;
     --channels-default: #DFDFDF;
@@ -4956,7 +4956,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-2McqkF .resultsGroup-cfY57t .header-1BR0Ro {
@@ -4970,7 +4970,7 @@ body #app-mount .guilds-2JjMmN {
 .container-2McqkF .resultsGroup-cfY57t :is(.searchClearHistory-3nIKUO, .searchLearnMore-1gNL3A) {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .container-2McqkF .resultsGroup-cfY57t :is(.searchClearHistory-3nIKUO, .searchLearnMore-1gNL3A)::before {
@@ -4980,7 +4980,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-2McqkF .resultsGroup-cfY57t :is(.searchClearHistory-3nIKUO, .searchLearnMore-1gNL3A):active {
@@ -5035,7 +5035,7 @@ body #app-mount .guilds-2JjMmN {
 .container-2McqkF .calendarPicker-sDhzdi .react-datepicker__navigation:is(.react-datepicker__navigation--next, .react-datepicker__navigation--previous) {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     top: 0;
     background-size: 12px
 }
@@ -5047,7 +5047,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-2McqkF .calendarPicker-sDhzdi .react-datepicker__navigation:is(.react-datepicker__navigation--next, .react-datepicker__navigation--previous):active {
@@ -5104,7 +5104,7 @@ body #app-mount .guilds-2JjMmN {
 .container-2McqkF .calendarPicker-sDhzdi .react-datepicker__day:not(.react-datepicker__day--disabled) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .container-2McqkF .calendarPicker-sDhzdi .react-datepicker__day:not(.react-datepicker__day--disabled)::before {
@@ -5114,7 +5114,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-2McqkF .calendarPicker-sDhzdi .react-datepicker__day:not(.react-datepicker__day--disabled):active {
@@ -5149,7 +5149,7 @@ body #app-mount .guilds-2JjMmN {
 .container-2McqkF .datePickerHint-Ir4715 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 0;
     padding: 8px 20px
 }
@@ -5161,13 +5161,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-2McqkF .datePickerHint-Ir4715 .hintValue-V9hd8l {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .container-2McqkF .datePickerHint-Ir4715 .hintValue-V9hd8l::before {
@@ -5177,7 +5177,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-2McqkF .datePickerHint-Ir4715 .hintValue-V9hd8l:active {
@@ -5191,7 +5191,7 @@ body #app-mount .guilds-2JjMmN {
 .container-2McqkF .queryContainer-ZunrLZ {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -5202,7 +5202,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-2McqkF .queryContainer-ZunrLZ:active {
@@ -5225,7 +5225,7 @@ body #app-mount .guilds-2JjMmN {
 .browser-mnQ1T7 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .browser-mnQ1T7::before {
@@ -5235,7 +5235,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .browser-mnQ1T7 .header-3_zmOb .divider-2xk5N2, .browser-mnQ1T7 .header-3_zmOb .spacer-180E7A {
@@ -5266,7 +5266,7 @@ body #app-mount .guilds-2JjMmN {
 .browser-mnQ1T7 .header-3_zmOb .searchBox-3IjAC1 .iconLayout-3Bjizv {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -5277,7 +5277,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .browser-mnQ1T7 .header-3_zmOb .searchBox-3IjAC1 .iconLayout-3Bjizv:active {
@@ -5295,7 +5295,7 @@ body #app-mount .guilds-2JjMmN {
 .browser-mnQ1T7 .header-3_zmOb .closeIcon-11tHJX {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     height: 24px
 }
 
@@ -5306,7 +5306,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .browser-mnQ1T7 .header-3_zmOb .closeIcon-11tHJX:active {
@@ -5324,7 +5324,7 @@ body #app-mount .guilds-2JjMmN {
 .browser-mnQ1T7 .container-2rzKKA {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .browser-mnQ1T7 .container-2rzKKA::before {
@@ -5334,7 +5334,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .browser-mnQ1T7 .container-2rzKKA:active {
@@ -5348,7 +5348,7 @@ body #app-mount .guilds-2JjMmN {
 .browser-mnQ1T7 .jump-1vIlrw {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .browser-mnQ1T7 .jump-1vIlrw::before {
@@ -5358,7 +5358,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .browser-mnQ1T7 .jump-1vIlrw:active {
@@ -5372,7 +5372,7 @@ body #app-mount .guilds-2JjMmN {
 .toast-2sz4eO {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .toast-2sz4eO::before {
@@ -5382,13 +5382,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userProfileOuter-2tQwNf {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .userProfileOuter-2tQwNf::before {
@@ -5398,7 +5398,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userProfileOuter-2tQwNf.userProfileOuterThemed-2BgJCM.theme-dark {
@@ -5411,7 +5411,7 @@ body #app-mount .guilds-2JjMmN {
 .userProfileOuter-2tQwNf .userProfileInner-1ngKnf .avatarWrapper-eenWra {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .userProfileOuter-2tQwNf .userProfileInner-1ngKnf .avatarWrapper-eenWra::before {
@@ -5421,7 +5421,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userProfileOuter-2tQwNf .userProfileInner-1ngKnf .avatarWrapper-eenWra:active {
@@ -5440,7 +5440,7 @@ body #app-mount .guilds-2JjMmN {
 .userProfileOuter-2tQwNf .userProfileInner-1ngKnf .profileBadges-2pItdR .clickable-1knRMS {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 2px
 }
 
@@ -5451,7 +5451,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userProfileOuter-2tQwNf .userProfileInner-1ngKnf .profileBadges-2pItdR .clickable-1knRMS:active {
@@ -5465,7 +5465,7 @@ body #app-mount .guilds-2JjMmN {
 .userProfileOuter-2tQwNf .userProfileInner-1ngKnf .userPopoutOverlayBackground-3A0Pcz {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .userProfileOuter-2tQwNf .userProfileInner-1ngKnf .userPopoutOverlayBackground-3A0Pcz::before {
@@ -5475,7 +5475,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userProfileOuter-2tQwNf .userProfileInner-1ngKnf .userPopoutOverlayBackground-3A0Pcz .divider-2dDziJ {
@@ -5505,7 +5505,7 @@ body #app-mount .guilds-2JjMmN {
 .userProfileOuter-2tQwNf .userProfileInner-1ngKnf .userPopoutOverlayBackground-3A0Pcz .role-2TIOKu {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin-right: 0
 }
 
@@ -5516,7 +5516,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userProfileOuter-2tQwNf .userProfileInner-1ngKnf .userPopoutOverlayBackground-3A0Pcz .note-1NN2aP {
@@ -5547,7 +5547,7 @@ body #app-mount .guilds-2JjMmN {
 .container-3a5mk- {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .container-3a5mk-::before {
@@ -5557,7 +5557,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3a5mk- .categoryList-2qRrlj {
@@ -5567,7 +5567,7 @@ body #app-mount .guilds-2JjMmN {
 .container-3a5mk- .slotsContainer-3Li39W {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 4px;
     width: auto
 }
@@ -5579,7 +5579,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3a5mk- .slotsContainer-3Li39W .slotsWide-31Ye9I {
@@ -5589,7 +5589,7 @@ body #app-mount .guilds-2JjMmN {
 .container-3a5mk- .slotsContainer-3Li39W .slot-JZjffO {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 4px
 }
 
@@ -5600,7 +5600,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-3a5mk- .slotsContainer-3Li39W .slot-JZjffO:active {
@@ -5618,7 +5618,7 @@ body #app-mount .guilds-2JjMmN {
 .container-1jQZ2U {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .container-1jQZ2U::before {
@@ -5628,13 +5628,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-1jQZ2U .activityItem_13_11-T6-eHz {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     transform: none !important
 }
 
@@ -5645,7 +5645,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .container-1jQZ2U .activityItem_13_11-T6-eHz:active {
@@ -5696,7 +5696,7 @@ body #app-mount .guilds-2JjMmN {
 .shelf-3D6g4D .activityItem-1Z9CTr {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .shelf-3D6g4D .activityItem-1Z9CTr::before {
@@ -5706,7 +5706,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .shelf-3D6g4D .activityItem-1Z9CTr:active {
@@ -5720,7 +5720,7 @@ body #app-mount .guilds-2JjMmN {
 .shelf-3D6g4D .activityItem-1Z9CTr .activityTag-3C3YK5 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .shelf-3D6g4D .activityItem-1Z9CTr .activityTag-3C3YK5::before {
@@ -5730,7 +5730,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .modalContent-20ynPO:has(.decorationGridItem-3J_11G) .list-2gEvIv {
@@ -5747,7 +5747,7 @@ body #app-mount .guilds-2JjMmN {
 .modalContent-20ynPO:has(.decorationGridItem-3J_11G) .decorationGridItem-3J_11G {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .modalContent-20ynPO:has(.decorationGridItem-3J_11G) .decorationGridItem-3J_11G::before {
@@ -5757,7 +5757,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .modalContent-20ynPO:has(.decorationGridItem-3J_11G) .decorationGridItem-3J_11G:active {
@@ -5788,7 +5788,7 @@ body #app-mount .guilds-2JjMmN {
 .modalContent-20ynPO:has(.decorationGridItem-3J_11G) .wrapper-3Un6-K {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .modalContent-20ynPO:has(.decorationGridItem-3J_11G) .wrapper-3Un6-K::before {
@@ -5798,7 +5798,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .modalContent-20ynPO:has(.decorationGridItem-3J_11G) .wrapper-3Un6-K .avatarDecoration-2Wb1Au {
@@ -5808,7 +5808,7 @@ body #app-mount .guilds-2JjMmN {
 .modalCarouselWrapper-YK1MX4 .arrowContainer-2wpC4q {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -5819,7 +5819,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .modalCarouselWrapper-YK1MX4 .arrowContainer-2wpC4q:active {
@@ -5833,7 +5833,7 @@ body #app-mount .guilds-2JjMmN {
 .imagePickerContainer-1VjOgi .optionBox-1UOevl {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .imagePickerContainer-1VjOgi .optionBox-1UOevl::before {
@@ -5843,7 +5843,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .imagePickerContainer-1VjOgi .optionBox-1UOevl:active {
@@ -5901,7 +5901,7 @@ body #app-mount .guilds-2JjMmN {
 .multiInput-1VARjC .questionMark-3V9mGJ {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     height: 22px;
     width: 22px;
     margin-right: 0;
@@ -5915,7 +5915,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .multiInput-1VARjC .questionMark-3V9mGJ:active {
@@ -5941,7 +5941,7 @@ body #app-mount .guilds-2JjMmN {
 .ratingsSelector-1RciCi .emoji-1pQ5Lb {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .ratingsSelector-1RciCi .emoji-1pQ5Lb::before {
@@ -5951,7 +5951,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .ratingsSelector-1RciCi .emoji-1pQ5Lb:active {
@@ -5983,7 +5983,7 @@ body #app-mount .guilds-2JjMmN {
     z-index: 2;
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background-color: silver;
     left: -10px
 }
@@ -5995,7 +5995,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .root-1CAIjD .override-1sK4r0 .removeOverride-26fy8R:active {
@@ -6086,7 +6086,7 @@ body #app-mount .guilds-2JjMmN {
 .childButton-3o_dlg {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin-bottom: 0;
     min-height: auto
 }
@@ -6098,7 +6098,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .childButton-3o_dlg:active {
@@ -6112,7 +6112,7 @@ body #app-mount .guilds-2JjMmN {
 .checkboxRow-3bHQJW {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 4px
 }
 
@@ -6123,7 +6123,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .checkboxRow-3bHQJW:active {
@@ -6145,7 +6145,7 @@ body #app-mount .guilds-2JjMmN {
 .tabItem-lbSC8a {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     border-bottom-color: rgba(0, 0, 0, 0);
     border-radius: 4px 4px 0 0;
     padding: 2px 8px;
@@ -6160,7 +6160,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .tabItem-lbSC8a::before {
@@ -6195,7 +6195,7 @@ body #app-mount .guilds-2JjMmN {
 .tile-3POX2m {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 8px 0;
     flex: 0 1 calc(50% - 4px) !important
 }
@@ -6207,7 +6207,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .tile-3POX2m:active {
@@ -6257,7 +6257,7 @@ body #app-mount .guilds-2JjMmN {
 .qualitySettingsContainer-2LjkfM .selectorButton-3fWZ0_ {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .qualitySettingsContainer-2LjkfM .selectorButton-3fWZ0_::before {
@@ -6267,7 +6267,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .qualitySettingsContainer-2LjkfM .selectorButton-3fWZ0_:active {
@@ -6332,7 +6332,7 @@ body #app-mount .guilds-2JjMmN {
 .searchBar-20o6Cf .iconLayout-3Bjizv {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -6343,7 +6343,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .searchBar-20o6Cf .iconLayout-3Bjizv:active {
@@ -6428,7 +6428,7 @@ body #app-mount .guilds-2JjMmN {
 .userProfileModalOuter-2wdWjU .tabBar-2hXqzU .tabBarItem-30Te4- {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     border-bottom-color: rgba(0, 0, 0, 0);
     border-radius: 4px 4px 0 0;
     padding: 2px 8px;
@@ -6443,7 +6443,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userProfileModalOuter-2wdWjU .tabBar-2hXqzU .tabBarItem-30Te4-::before {
@@ -6471,7 +6471,7 @@ body #app-mount .guilds-2JjMmN {
 .userProfileModalOuter-2wdWjU .scrollerBase-1Pkza4 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .userProfileModalOuter-2wdWjU .scrollerBase-1Pkza4::before {
@@ -6481,7 +6481,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userProfileModalOuter-2wdWjU .scrollerBase-1Pkza4::before {
@@ -6522,7 +6522,7 @@ body #app-mount .guilds-2JjMmN {
 .userProfileModalOuter-2wdWjU .scrollerBase-1Pkza4 .connectedAccounts-2R5M4w .connectedAccountsColumn-1zdyyx .connectedAccountContainer-3aLMHJ:has(.anchor-1X4H4q) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .userProfileModalOuter-2wdWjU .scrollerBase-1Pkza4 .connectedAccounts-2R5M4w .connectedAccountsColumn-1zdyyx .connectedAccountContainer-3aLMHJ:has(.anchor-1X4H4q)::before {
@@ -6532,7 +6532,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userProfileModalOuter-2wdWjU .scrollerBase-1Pkza4 .connectedAccounts-2R5M4w .connectedAccountsColumn-1zdyyx .connectedAccountContainer-3aLMHJ:has(.anchor-1X4H4q):active {
@@ -6576,7 +6576,7 @@ body #app-mount .guilds-2JjMmN {
 .userProfileModalOuter-2wdWjU .scrollerBase-1Pkza4 .connectedAccounts-2R5M4w .connectedAccountsColumn-1zdyyx .connectedAccountContainer-3aLMHJ.connectedAccountContainerWithMetadata-3_IQ7D:hover:hover .connectedAccountChildren-29Qmfl {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     bottom: 50px;
     left: -33px
 }
@@ -6588,7 +6588,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userProfileModalOuter-2wdWjU .scrollerBase-1Pkza4 .listRow-2nO1T6 {
@@ -6614,7 +6614,7 @@ body #app-mount .guilds-2JjMmN {
 .optionContainer-yOpaLq {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .optionContainer-yOpaLq::before {
@@ -6624,7 +6624,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .optionContainer-yOpaLq:active {
@@ -6646,7 +6646,7 @@ body #app-mount .guilds-2JjMmN {
 .small-2xUY-3:has(.modal-3Hrb0S) .socialLink-1qjJIk {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin-right: 0;
     padding: 4px;
     color: #000;
@@ -6664,7 +6664,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .small-2xUY-3:has(.modal-3Hrb0S) .socialLink-1qjJIk:active {
@@ -6683,7 +6683,7 @@ body #app-mount .guilds-2JjMmN {
 .root-1CAIjD:not(.carouselModal-1eUFoq) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .root-1CAIjD:not(.carouselModal-1eUFoq)::before {
@@ -6693,13 +6693,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .root-1CAIjD:not(.carouselModal-1eUFoq) .modalHeader-3X0A4K, .root-1CAIjD:not(.carouselModal-1eUFoq) .footer-IubaaS {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .root-1CAIjD:not(.carouselModal-1eUFoq) .modalHeader-3X0A4K::before, .root-1CAIjD:not(.carouselModal-1eUFoq) .footer-IubaaS::before {
@@ -6709,7 +6709,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .artContainer-1yaXct {
@@ -6756,7 +6756,7 @@ body #app-mount .guilds-2JjMmN {
 .accountProfileCard-lbN7n- {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .accountProfileCard-lbN7n-::before {
@@ -6766,7 +6766,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .accountProfileCard-lbN7n- .background-3d_SjE {
@@ -6788,7 +6788,7 @@ body #app-mount .guilds-2JjMmN {
 .accountProfileCard-lbN7n- .overflowMenuIcon-2Bjb5_ {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .accountProfileCard-lbN7n- .overflowMenuIcon-2Bjb5_::before {
@@ -6798,7 +6798,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .accountProfileCard-lbN7n- .overflowMenuIcon-2Bjb5_:active {
@@ -6816,7 +6816,7 @@ body #app-mount .guilds-2JjMmN {
 .tabBar-11FwuO .brand-2EKq3J.item-2GWPIy {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 4px;
     margin: 0
 }
@@ -6828,7 +6828,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .tabBar-11FwuO .brand-2EKq3J.item-2GWPIy:active {
@@ -6912,7 +6912,7 @@ body #app-mount .guilds-2JjMmN {
 .userPopoutOuter-3AVBmJ {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .userPopoutOuter-3AVBmJ::before {
@@ -6922,7 +6922,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userPopoutOuter-3AVBmJ .userPopoutOverlayBackground-dKOOda {
@@ -6944,7 +6944,7 @@ body #app-mount .guilds-2JjMmN {
 .userPopoutOuter-3AVBmJ .profileBadges-31rDHI.containerWithContent-2_V0PM {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .userPopoutOuter-3AVBmJ .profileBadges-31rDHI.containerWithContent-2_V0PM::before {
@@ -6954,13 +6954,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .userPopoutOuter-3AVBmJ .avatarUploaderInner-1dBiHs {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .userPopoutOuter-3AVBmJ .avatarUploaderInner-1dBiHs::before {
@@ -6970,7 +6970,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .premiumFeatureBorder-1i95si, .premiumBackground-34OIdE {
@@ -7003,7 +7003,7 @@ body #app-mount .guilds-2JjMmN {
 .item-1TA5qI {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin: 0
 }
 
@@ -7014,7 +7014,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .item-1TA5qI:active {
@@ -7052,8 +7052,8 @@ body #app-mount .guilds-2JjMmN {
 .authedApp-8q3NA9 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
-    border-color: #fff #000 #000 #fff !important;
+    border-color: #CF7288 #000 #000 #CF7288;
+    border-color: #CF7288 #000 #000 #CF7288 !important;
     padding: 8px
 }
 
@@ -7064,7 +7064,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .authedApp-8q3NA9 .marginTop20-2T8ZJx {
@@ -7087,7 +7087,7 @@ body #app-mount .guilds-2JjMmN {
 .session-9khLqt {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 8px
 }
 
@@ -7098,13 +7098,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .session-9khLqt .sessionMoreButton-2cApSx svg {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .session-9khLqt .sessionMoreButton-2cApSx svg::before {
@@ -7114,7 +7114,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .session-9khLqt .sessionMoreButton-2cApSx svg:active {
@@ -7128,7 +7128,7 @@ body #app-mount .guilds-2JjMmN {
 .connectContainer-1hylYM {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 8px
 }
 
@@ -7139,7 +7139,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .connectContainer-1hylYM .connectionsContainer-3wRUc6 {
@@ -7150,7 +7150,7 @@ body #app-mount .guilds-2JjMmN {
 .connectContainer-1hylYM .connectionsContainer-3wRUc6 .inner-1lPVFp, .connectContainer-1hylYM .connectionsContainer-3wRUc6 .accountAddInner-2y9WLL {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .connectContainer-1hylYM .connectionsContainer-3wRUc6 .inner-1lPVFp::before, .connectContainer-1hylYM .connectionsContainer-3wRUc6 .accountAddInner-2y9WLL::before {
@@ -7160,7 +7160,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .connectContainer-1hylYM .connectionsContainer-3wRUc6 .inner-1lPVFp:active, .connectContainer-1hylYM .connectionsContainer-3wRUc6 .accountAddInner-2y9WLL:active {
@@ -7178,7 +7178,7 @@ body #app-mount .guilds-2JjMmN {
 .connectionList-11Q_X- .connection-YOVI9j {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 0;
     margin-bottom: 0
 }
@@ -7190,7 +7190,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .connectionList-11Q_X- .connection-YOVI9j .connectionHeader-Ixbb1s {
@@ -7207,7 +7207,7 @@ body #app-mount .guilds-2JjMmN {
     width: 24px;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .connectionList-11Q_X- .connection-YOVI9j .connectionHeader-Ixbb1s .connectionDelete-3YgMVq svg::before {
@@ -7217,7 +7217,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .connectionList-11Q_X- .connection-YOVI9j .connectionHeader-Ixbb1s .connectionDelete-3YgMVq svg:active {
@@ -7235,7 +7235,7 @@ body #app-mount .guilds-2JjMmN {
 .connectionList-11Q_X- .connection-YOVI9j .upsellWrapper-2jvKpl .container-QlmnKJ {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 8px
 }
 
@@ -7246,7 +7246,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .connectionList-11Q_X- .connection-YOVI9j .metadataContainer-35U-On {
@@ -7322,7 +7322,7 @@ body #app-mount .guilds-2JjMmN {
 .table-398-e9 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .table-398-e9::before {
@@ -7332,7 +7332,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .table-398-e9 tbody :is(th, td) {
@@ -7416,7 +7416,7 @@ body #app-mount .guilds-2JjMmN {
 .guildsSection-30CJxX .card-2xlCYc {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 8px
 }
 
@@ -7427,7 +7427,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .guildsSection-30CJxX .card-2xlCYc:active {
@@ -7523,7 +7523,7 @@ body #app-mount .guilds-2JjMmN {
     color: #000;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 #billing-tab .codeRedemptionRedirect-2hYMSQ::before {
@@ -7533,7 +7533,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #billing-tab .subText-1gefwV {
@@ -7565,7 +7565,7 @@ body #app-mount .guilds-2JjMmN {
     box-shadow: none;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 #appearance-tab .presets-2zm9Ir .themeSelection-2u4ce0::before {
@@ -7575,7 +7575,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #appearance-tab .presets-2zm9Ir .themeSelection-2u4ce0:active {
@@ -7625,7 +7625,7 @@ body #app-mount .guilds-2JjMmN {
 .warning-RBGtx2 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .warning-RBGtx2::before {
@@ -7635,7 +7635,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .marginTop60-38vAjL {
@@ -7682,7 +7682,7 @@ body #app-mount .guilds-2JjMmN {
 .appMount-2yBXZl .combo-3PNrpQ .key-RP8gj3 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     box-shadow: none;
     background: gray;
     color: #fff
@@ -7695,7 +7695,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #game-activity-tab .gameName-zbZetm {
@@ -7709,7 +7709,7 @@ body #app-mount .guilds-2JjMmN {
 #game-activity-tab .activeGame-1OdxzI {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 #game-activity-tab .activeGame-1OdxzI::before {
@@ -7719,7 +7719,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #game-activity-tab .nowPlayingAdd-3I4RbE {
@@ -7729,7 +7729,7 @@ body #app-mount .guilds-2JjMmN {
 #game-activity-tab .card-2ART2V {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 8px
 }
 
@@ -7740,7 +7740,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #game-activity-tab .card-2ART2V .gameNameInput-2wbDJ9:focus, #game-activity-tab .card-2ART2V .gameNameInput-2wbDJ9:hover {
@@ -7763,7 +7763,7 @@ body #app-mount .guilds-2JjMmN {
 #game-activity-tab .card-2ART2V .overlayToggleIcon-1WRcQ9 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 #game-activity-tab .card-2ART2V .overlayToggleIcon-1WRcQ9::before {
@@ -7773,7 +7773,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #game-activity-tab .card-2ART2V .overlayToggleIcon-1WRcQ9:active {
@@ -7799,7 +7799,7 @@ body #app-mount .guilds-2JjMmN {
 #game-activity-tab .removeGame-3V7nss {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     right: -12px;
     background-color: silver;
     z-index: 1
@@ -7812,7 +7812,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #game-activity-tab .removeGame-3V7nss:active {
@@ -7827,7 +7827,7 @@ body #app-mount .guilds-2JjMmN {
     background: silver;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .animatorBottom-1jjd1i .addGamePopout-2SKNIV::before {
@@ -7837,7 +7837,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .animatorBottom-1jjd1i .addGamePopout-2SKNIV .actions-3c4xJH {
@@ -7852,7 +7852,7 @@ body #app-mount .guilds-2JjMmN {
 .wrapper-SdcMKg .option-1QI4c9 {
     position: absolute;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -7863,7 +7863,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .wrapper-SdcMKg .option-1QI4c9:active {
@@ -7882,7 +7882,7 @@ body #app-mount .guilds-2JjMmN {
 .member-2cj2PI {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 15px
 }
 
@@ -7893,13 +7893,13 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .member-2cj2PI .role-2TIOKu {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     cursor: pointer
 }
 
@@ -7910,7 +7910,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .member-2cj2PI .role-2TIOKu:active {
@@ -7929,7 +7929,7 @@ body #app-mount .guilds-2JjMmN {
 .standardSidebarView-E9Pc3j .container-20TyK0 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver !important
 }
 
@@ -7940,7 +7940,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .standardSidebarView-E9Pc3j .container-20TyK0 .message-3C6JQ1, .standardSidebarView-E9Pc3j .container-20TyK0 .contents-3NembX span {
@@ -7987,7 +7987,7 @@ body #app-mount .guilds-2JjMmN {
     padding: 10px;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .standardSidebarView-E9Pc3j .contentRegionShownSidebar-fHXkEg .contentColumnDefault-3eyv5o::before, .standardSidebarView-E9Pc3j .contentRegionShownSidebar-fHXkEg .contentColumnWide-2CgNjO::before {
@@ -7997,7 +7997,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .standardSidebarView-E9Pc3j .contentRegionShownSidebar-fHXkEg .toolsContainer-25FL6V {
@@ -8011,7 +8011,7 @@ body #app-mount .guilds-2JjMmN {
 .standardSidebarView-E9Pc3j .contentRegionShownSidebar-fHXkEg .toolsContainer-25FL6V .container-O54IuJ .closeButton-PCZcma {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver;
     margin-bottom: 8px
 }
@@ -8023,7 +8023,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .standardSidebarView-E9Pc3j .contentRegionShownSidebar-fHXkEg .toolsContainer-25FL6V .container-O54IuJ .closeButton-PCZcma:active {
@@ -8058,7 +8058,7 @@ body #app-mount .guilds-2JjMmN {
 .control-10qYax {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .control-10qYax::before {
@@ -8068,7 +8068,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .control-10qYax .container-1QtPKm {
@@ -8094,7 +8094,7 @@ body #app-mount .guilds-2JjMmN {
 .formNotice-1JW4h2 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .formNotice-1JW4h2::before {
@@ -8104,7 +8104,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .slider-1mmyV6 .bar-2H7Q9u {
@@ -8132,7 +8132,7 @@ body #app-mount .guilds-2JjMmN {
 .slider-1mmyV6 .grabber-3R-Rx9 {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver;
     height: 20px;
     width: 10px;
@@ -8146,7 +8146,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .slider-1mmyV6 .grabber-3R-Rx9::before {
@@ -8210,7 +8210,7 @@ body #app-mount .guilds-2JjMmN {
     background: silver;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .lookFilled-GPyucw.select-Zz0IcO .icons-2ibyma::before {
@@ -8220,7 +8220,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .baseLayer-W6S8cY.stop-animations {
@@ -8254,7 +8254,7 @@ body #app-mount .guilds-2JjMmN {
 #bd-notices .bd-notice-button {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 #bd-notices .bd-notice-button::before {
@@ -8264,7 +8264,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #bd-notices .bd-notice-button:active {
@@ -8282,7 +8282,7 @@ body #app-mount .guilds-2JjMmN {
 .bd-sidebar-header .bd-changelog-button {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     height: 18px
 }
 
@@ -8293,7 +8293,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .bd-sidebar-header .bd-changelog-button:active {
@@ -8311,7 +8311,7 @@ body #app-mount .guilds-2JjMmN {
 .bd-tab-item {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .bd-tab-item::before {
@@ -8321,7 +8321,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .bd-tab-item:active {
@@ -8340,7 +8340,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.theme-dark, .theme-light) .bd-addon-error.collapsed {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 :is(.theme-dark, .theme-light) .bd-addon-error.collapsed::before {
@@ -8350,7 +8350,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.theme-dark, .theme-light) .bd-addon-error.collapsed:active {
@@ -8364,7 +8364,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.theme-dark, .theme-light) .bd-addon-error.expanded {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 :is(.theme-dark, .theme-light) .bd-addon-error.expanded::before {
@@ -8374,7 +8374,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .bd-addon-error-details .detailsIcon-2NtTO9 {
@@ -8489,7 +8489,7 @@ body #app-mount .guilds-2JjMmN {
 .bd-select .bd-select-arrow {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver;
     height: 24px !important;
     width: 24px !important
@@ -8502,7 +8502,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .bd-select .bd-select-arrow:active {
@@ -8542,7 +8542,7 @@ body #app-mount .guilds-2JjMmN {
 .bd-switch {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 .bd-switch::before {
@@ -8552,7 +8552,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .bd-switch-body {
@@ -8574,7 +8574,7 @@ body #app-mount .guilds-2JjMmN {
 .bd-button {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver;
     color: #000
 }
@@ -8586,7 +8586,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .bd-button:active {
@@ -8645,7 +8645,7 @@ body #app-mount .guilds-2JjMmN {
 .bd-addon-card {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     padding: 6px
 }
 
@@ -8656,7 +8656,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .bd-addon-card :is(.bd-addon-header, .bd-description-wrap, .bd-footer) {
@@ -8674,7 +8674,7 @@ body #app-mount .guilds-2JjMmN {
 .bd-addon-card .bd-links .bd-addon-button {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     width: 24px;
     align-items: center;
     justify-content: center
@@ -8687,7 +8687,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .bd-addon-card .bd-links .bd-addon-button:active {
@@ -8721,7 +8721,7 @@ body #app-mount .guilds-2JjMmN {
 #floating-editor-window, #floating-windows-layer [id^=bd-floating-window-] {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 #floating-editor-window::before, #floating-windows-layer [id^=bd-floating-window-]::before {
@@ -8731,7 +8731,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #floating-editor-window .floating-window-titlebar, #floating-windows-layer [id^=bd-floating-window-] .floating-window-titlebar {
@@ -8758,7 +8758,7 @@ body #app-mount .guilds-2JjMmN {
 #floating-editor-window .floating-window-titlebar .button, #floating-windows-layer [id^=bd-floating-window-] .floating-window-titlebar .button {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver;
     height: 18px;
     width: 22px
@@ -8771,7 +8771,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #floating-editor-window .floating-window-titlebar .button:active, #floating-windows-layer [id^=bd-floating-window-] .floating-window-titlebar .button:active {
@@ -8795,7 +8795,7 @@ body #app-mount .guilds-2JjMmN {
 #floating-editor-window #bd-editor-controls .btn-primary, #floating-windows-layer [id^=bd-floating-window-] #bd-editor-controls .btn-primary {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     margin-right: 0
 }
 
@@ -8806,7 +8806,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #floating-editor-window #bd-editor-controls .btn-primary:active, #floating-windows-layer [id^=bd-floating-window-] #bd-editor-controls .btn-primary:active {
@@ -8825,7 +8825,7 @@ body #app-mount .guilds-2JjMmN {
 #floating-editor-window #bd-editor-controls .checkbox-item, #floating-windows-layer [id^=bd-floating-window-] #bd-editor-controls .checkbox-item {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     cursor: pointer;
     height: 24px
 }
@@ -8837,7 +8837,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #floating-editor-window #bd-editor-controls .checkbox-item:active, #floating-windows-layer [id^=bd-floating-window-] #bd-editor-controls .checkbox-item:active {
@@ -8903,7 +8903,7 @@ body #app-mount .guilds-2JjMmN {
 :is(.button-2b4VEQ, .welcomeCTAButtonOuter-3pJkMq, .friendRequestsButton-77veU7, .button-1_oXub, .lookFilled-1H2Jvj, .lookOutlined-3RTC7c, .lookInverted-2GrLaB) {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 :is(.button-2b4VEQ, .welcomeCTAButtonOuter-3pJkMq, .friendRequestsButton-77veU7, .button-1_oXub, .lookFilled-1H2Jvj, .lookOutlined-3RTC7c, .lookInverted-2GrLaB)::before {
@@ -8913,7 +8913,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 :is(.button-2b4VEQ, .welcomeCTAButtonOuter-3pJkMq, .friendRequestsButton-77veU7, .button-1_oXub, .lookFilled-1H2Jvj, .lookOutlined-3RTC7c, .lookInverted-2GrLaB):active {
@@ -9078,7 +9078,7 @@ body #app-mount .guilds-2JjMmN {
 .scrollerBase-1Pkza4::-webkit-scrollbar-thumb {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -9094,7 +9094,7 @@ body #app-mount .guilds-2JjMmN {
 .webkit-QgSAqd::-webkit-scrollbar-thumb {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -9110,7 +9110,7 @@ body #app-mount .guilds-2JjMmN {
 .scrollbarGhostHairline-2LpzZ9::-webkit-scrollbar-thumb {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -9125,7 +9125,7 @@ body #app-mount .guilds-2JjMmN {
 ::-webkit-scrollbar-button:start:decrement, ::-webkit-scrollbar-button:end:increment {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     width: 18px;
     height: 18px
 }
@@ -9149,7 +9149,7 @@ body #app-mount .guilds-2JjMmN {
 .channelTextArea-1FufC0 div[style="display: flex;"], .invisible-typing-button {
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver
 }
 
@@ -9160,7 +9160,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 .channelTextArea-1FufC0 div[style="display: flex;"]:active, .invisible-typing-button:active {
@@ -9182,7 +9182,7 @@ body #app-mount .guilds-2JjMmN {
 #dv-mount {
     position: fixed;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff;
+    border-color: #CF7288 #000 #000 #CF7288;
     background: silver;
     right: 0;
     height: 46px;
@@ -9197,7 +9197,7 @@ body #app-mount .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #dv-mount, #dv-mount::before {
@@ -9250,7 +9250,7 @@ body #app-mount:has(#dv-mount) .guilds-2JjMmN {
     transition-duration: .1s;
     position: relative;
     border: 1px solid;
-    border-color: #fff #000 #000 #fff
+    border-color: #CF7288 #000 #000 #CF7288
 }
 
 #spotify-modal>.dock>.controls>svg::before {
@@ -9260,7 +9260,7 @@ body #app-mount:has(#dv-mount) .guilds-2JjMmN {
     border: 1px solid;
     pointer-events: none;
     z-index: 1;
-    border-color: #dfdfdf gray gray #dfdfdf
+    border-color: #C8938D gray gray #C8938D
 }
 
 #spotify-modal>.dock>.controls>svg:active {
@@ -9277,4 +9277,12 @@ body #app-mount:has(#dv-mount) .guilds-2JjMmN {
 
 #spotify-modal>.dock>.controls>svg:not(.active):hover {
     color: #000
+}
+
+.item-2LIpTv{
+    background-color: var(--background-primary);
+}
+
+.theme-dark .outer-2JOHae.active-1W_Gl9, .theme-dark .outer-2JOHae.interactive-2zD88a:hover {
+    background-color: var(--background-secondary);
 }
