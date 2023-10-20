@@ -1,0 +1,188 @@
+@use "../top/vars" as *;
+@use "../top/font";
+
+@font-face {
+    font-family: w95;
+    src: url("https://saltssaumure.github.io/w9x-discord-theme/font/w95fa.woff2");
+}
+
+@font-face {
+    font-family: Unifont;
+    src: url("https://saltssaumure.github.io/w9x-discord-theme/font/GnuUnifontFull-Pm9P.ttf");
+}
+
+@font-face {
+    font-family: FixedSys;
+    src: url("https://saltssaumure.github.io/w9x-discord-theme/font/FSEX300.ttf");
+}
+
+:root {
+    @include font.lang-font($font-latin, $font-code);
+}
+
+:lang(bg),
+:lang(el),
+:lang(ru),
+:lang(uk) {
+    @include font.lang-font($font-cyrillic, $font-code);
+}
+:lang(zh-CN) {
+    @include font.lang-font($font-chinese-simplified, $font-code);
+}
+:lang(zh-TW) {
+    @include font.lang-font($font-chinese-traditional, $font-code);
+}
+:lang(ja) {
+    @include font.lang-font($font-japanese, $font-code);
+}
+:lang(ko) {
+    @include font.lang-font($font-korean, $font-code);
+}
+
+// Colour sync stuff
+:root {
+    .container-2IKOsH,
+    .header-3xB4vB,
+    .container-1um7CU {
+        background: var(--background-primary);
+    }
+}
+
+// Everything else
+.theme-light,
+.theme-dark {
+    // Main bg colour for main window
+    --background-primary: #{$grey};
+
+    // BG for attached items in chatbox?
+    --background-secondary: #{$grey};
+
+    // Clicked emotes
+    --background-secondary-alt: #{$grey};
+
+    // Hovered tags in forum
+    --background-tertiary: #{$grey};
+
+    // Hovered message action buttons
+    --background-modifier-hover: transparent;
+    --background-modifier-active: #{$grey};
+    --background-modifier-selected: #{$grey};
+
+    // User profile centre piece
+    --background-floating: #{$grey};
+
+    // Channel icon
+    --channel-icon: #{$black};
+
+    // Channel typing area
+    --channeltextarea-background: #{$bg};
+
+    // BD number input bg
+    --deprecated-text-input-bg: #{$bg};
+
+    // Authorised apps bg
+    --deprecated-card-bg: #{$grey};
+
+    // Input bg
+    --input-background: #{$bg};
+
+    // Server guide bg
+    --home-background: #{$grey};
+
+    // Black text always
+    --interactive-normal: #{$black};
+    --interactive-muted: #{$black};
+    --interactive-hover: #{$black};
+    --interactive-active: #{$black};
+
+    --text-normal: #{$black};
+    --text-muted: #{$darkgrey};
+    --header-primary: #{$black};
+    --header-secondary: #{$black};
+
+    // Channel/user mentions
+    --mention-foreground: #{$white};
+    --mention-background: #{$darkblue};
+
+    // Special text
+    --text-link: #{$blue};
+    --text-positive: #{$green};
+    --text-danger: #{$red};
+    --text-brand: #{$darkblue};
+
+    // Status colours
+    --status-danger: #{$red};
+
+    // Search popover
+    --search-popout-option-fade: linear-gradient(90deg, transparent, #{$grey});
+    --search-popout-option-fade-hover: linear-gradient(90deg, transparent, #{$darkblue});
+    --search-popout-date-picker-border: none;
+    --search-popout-date-picker-hint-text: #{$black};
+    --search-popout-date-picker-hint-value-text: #{$white};
+    --search-popout-date-picker-hint-value-background: #{$darkblue};
+    --search-popout-date-picker-hint-value-background-hover: #{$darkblue};
+
+    // Modals
+    --modal-background: #{$grey};
+    --modal-footer-background: #{$grey};
+
+    // User profile modal
+    --profile-body-divider-color: transparent;
+    --profile-body-background-hover: #{$darkblue};
+
+    // Buttons
+    --button-danger-background: #{$red};
+    --button-danger-background-active: #{$red};
+    --button-danger-background-disabled: #{$red};
+    --button-danger-background-hover: #{$red};
+
+    --button-outline-brand-background: hsl(var(--white-500-hsl) / 0);
+    --button-outline-brand-background-active: var(--brand-560);
+    --button-outline-brand-background-hover: var(--brand-500);
+    --button-outline-brand-border: var(--brand-500);
+    --button-outline-brand-border-active: var(--brand-560);
+    --button-outline-brand-border-hover: var(--brand-500);
+    --button-outline-brand-text: var(--white-500);
+    --button-outline-brand-text-active: var(--white-500);
+    --button-outline-brand-text-hover: var(--white-500);
+
+    --button-outline-danger-background: transparent;
+    --button-outline-danger-background-active: #{$red};
+    --button-outline-danger-background-hover: #{$red};
+    --button-outline-danger-border: #{$red};
+    --button-outline-danger-border-active: #{$red};
+    --button-outline-danger-border-hover: #{$red};
+    --button-outline-danger-text: #{$black};
+    --button-outline-danger-text-active: #{$black};
+    --button-outline-danger-text-hover: #{$black};
+
+    --button-outline-positive-background: transparent;
+    --button-outline-positive-background-active: #{$green};
+    --button-outline-positive-background-hover: #{$green};
+    --button-outline-positive-border: #{$green};
+    --button-outline-positive-border-active: #{$green};
+    --button-outline-positive-border-hover: #{$green};
+    --button-outline-positive-text: #{$black};
+    --button-outline-positive-text-active: #{$black};
+    --button-outline-positive-text-hover: #{$black};
+
+    --button-outline-primary-background: hsl(var(--white-500-hsl) / 0);
+    --button-outline-primary-background-active: var(--primary-430);
+    --button-outline-primary-background-hover: var(--primary-500);
+    --button-outline-primary-border: var(--primary-500);
+    --button-outline-primary-border-active: var(--primary-430);
+    --button-outline-primary-border-hover: var(--primary-500);
+    --button-outline-primary-text: var(--white-500);
+    --button-outline-primary-text-active: var(--white-500);
+    --button-outline-primary-text-hover: var(--white-500);
+
+    --button-positive-background: #{$green};
+    --button-positive-background-active: #{$green};
+    --button-positive-background-disabled: #{$green};
+    --button-positive-background-hover: #{$green};
+
+    --button-secondary-background: #{$grey};
+    --button-secondary-background-active: #{$grey};
+    --button-secondary-background-disabled: #{$grey};
+    --button-secondary-background-hover: #{$grey};
+}

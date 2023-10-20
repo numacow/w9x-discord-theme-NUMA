@@ -1,13 +1,14 @@
-refs
-_header.scss
-test.scss
+# Packages
+/.parcel-cache
+/node_modules
 
-.parcel-cache
+# Build
+/dist
+/bundle
+/src
 
-node_modules
-package-lock.json
-pnpm-lock.yaml
+# Social images
+/preview
 
-dist
-bundle
-src
+# References
+/refs

@@ -1,0 +1,24 @@
+@use "../top/vars" as *;
+@use "../top/boxes" as boxes;
+
+.container-2_BXG- {
+    background: $grey;
+
+    .scroller-38C5lh {
+        @include boxes.scroller;
+        background: $bg;
+    }
+}
+
+.ctaTitle-3zxXyr,
+.ctaTitle-3zxXyr strong {
+    color: $text;
+}
+
+.ctaSubtitle-2NP9L_ {
+    color: $text !important;
+}
+
+.roleMessagePreview-NUi2Ri {
+    background: $bg;
+}

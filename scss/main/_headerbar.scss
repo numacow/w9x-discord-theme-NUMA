@@ -1,9 +1,10 @@
-@use "../top/vars-scss" as *;
+@use "../top/vars" as *;
 @use "../top/boxes" as boxes;
 
 // Header bars
 :is(
         .container-2cd8Mz .container-ZMc96U,
+        .container-2_BXG- .container-ZMc96U,
         .pageWrapper-2PwDoS .scroller-3j5xK2,
         .scroller-RfJjkV .viewWrapper-oqUsis,
         .applicationStore-2nk7Lo .homeWrapper-L4ors0,
@@ -18,6 +19,11 @@
     }
 }
 
+// End of description shadow
+.appMount-2yBXZl :is(.innerHeader-1cC3Fp, .headerBarInner-39Tej7)::after {
+    background: linear-gradient(180deg, transparent, $grey);
+}
+
 // Tools
 .toolbar-3_r2xA {
     .search-39IXmY {
@@ -27,8 +33,8 @@
         .searchBar-jGtisZ {
             height: 30px;
             align-items: center;
-            background: var(--w9x-background);
-            color: var(--w9x-text);
+            background: $bg;
+            color: $text;
 
             .DraftEditor-root {
                 padding-top: 5px;
@@ -55,7 +61,9 @@
     }
 
     // Buttons
-    .videoControls-353CsJ & .iconWrapper-2awDjA.clickable-ZD7xvu:is(.anchor-1X4H4q .iconWrapper-2awDjA:only-of-type, :has([d^="M14 8.00598"])),
+    .videoControls-353CsJ
+        &
+        .iconWrapper-2awDjA.clickable-ZD7xvu:is(.anchor-1X4H4q .iconWrapper-2awDjA:only-of-type, :has([d^="M14 8.00598"])),
     .iconWrapper-2awDjA.clickable-ZD7xvu:not(.anchor-1X4H4q .iconWrapper-2awDjA:only-of-type, :has([d^="M14 8.00598"])) {
         @include boxes.clickable;
         margin: 0;

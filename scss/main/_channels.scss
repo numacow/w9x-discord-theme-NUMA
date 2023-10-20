@@ -1,4 +1,4 @@
-@use "../top/vars-scss" as *;
+@use "../top/vars" as *;
 @use "../top/boxes" as boxes;
 @use "../top/channellist-css" as channels;
 @use "../top/msgPill" as msg;
@@ -107,12 +107,15 @@
 }
 
 // Channel
-.content-1gYQeQ,
-.container-32HW5s {
+.container-32HW5s,
+.wrapper-NhbLHG {
     margin-left: 0;
 }
 
 // Channel actions
+.children-1MGS9G {
+    margin-top: 2px;
+}
 .iconItem-1EjiK0 {
     margin-left: 0;
 
@@ -140,6 +143,7 @@
 .unreadRelevant-2f-VSK {
     background: var(--channels-default);
     z-index: 1;
+    left: 0;
 }
 
 // Channels: black on none bg
@@ -154,16 +158,14 @@
     }
 }
 
+// Muted channels: grey on none bg
+.modeMuted-2T4MDZ .icon-2W8DHg,
+.modeMuted-2T4MDZ .name-28HaxV {
+    color: $darkgrey;
+}
+
 // Hovered and selected channels: white on navy bg
-:is(
-        .modeConnected-NrO4cP:hover,
-        .content-1gYQeQ:hover,
-        .content-1gYQeQ:active,
-        .modeSelected-3DmyhH,
-        .modeSelected-3DmyhH:hover,
-        .modeUnread-3Cxepe:hover:not(.typeThread-2Aqh6X),
-        .modeMuted-2T4MDZ:hover:not(.typeThread-2Aqh6X)
-    ) {
+:is(.modeMuted-2T4MDZ:hover, .wrapper-NhbLHG:hover, .modeConnected-NrO4cP:hover, .modeSelected-3DmyhH, .modeSelected-3DmyhH:hover) {
     :is(.icon-2W8DHg, .name-28HaxV) {
         color: var(--interactive-hover);
     }
@@ -175,8 +177,7 @@
 
 // Voice user
 .voiceUser-3nRK-K:is(:hover, :active) {
-    .username-vAneIW,
-    .icon-N9JZb6 {
+    :is(.username-vAneIW, .icon-N9JZb6) {
         color: var(--interactive-hover);
     }
 }
@@ -187,7 +188,8 @@
 
 // Drag voice user
 .containerUserOver-SDa1HW::after {
-    background: transparentize($darkblue, 0.7);
+    background: $darkblue;
+    opacity: 0.3;
     border-color: $darkblue;
     left: 0;
 }
